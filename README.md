@@ -11,3 +11,4 @@ Security audit reports and analysis of the AI agent skill ecosystem.
 - [suspicious-skills-watchlist](reports/suspicious-skills-watchlist.md)
 - [most-downloaded-skills](reports/most-downloaded-skills.md)
 - [malicious-skills-exposed](reports/malicious-skills-exposed.md)
+- [safest-skills-recommended](reports/safest-skills-recommended.md)
