@@ -1,16 +1,13 @@
-# ClawSec Security Reports
-
 Security audit reports and analysis of the AI agent skill ecosystem.
 
-- [ClawSec](https://clawsec.cc) — Security audit platform for AI agent skills
-- [ClawSearch](https://clawsearch.cc) — Safe skill discovery search engine
+[ClawSec](https://clawsec.cc) — Security audit platform | [ClawSearch](https://clawsearch.cc) — Safe skill discovery
 
 ## Reports
 
-- [Top 50 Skill Authors — Trust & Safety Leaderboard](reports/skill-authors-top50.md)
-- [suspicious-skills-watchlist](reports/suspicious-skills-watchlist.md)
-- [most-downloaded-skills](reports/most-downloaded-skills.md)
-- [malicious-skills-exposed](reports/malicious-skills-exposed.md)
-- [safest-skills-recommended](reports/safest-skills-recommended.md)
-- [threat-landscape](reports/threat-landscape.md)
-- [rising-authors](reports/rising-authors.md)
+- [Top 50 Authors — Trust and Safety Leaderboard](reports/skill-authors-top50.md)
+- [Most Downloaded Skills — Security Analysis](reports/most-downloaded-skills.md)
+- [Malicious Skills Exposed — Threat Breakdown](reports/malicious-skills-exposed.md)
+- [Safest Skills — Recommended Picks](reports/safest-skills-recommended.md)
+- [Suspicious Skills — What to Watch](reports/suspicious-skills-watchlist.md)
+- [Threat Landscape — Attack Patterns](reports/threat-landscape.md)
+- [Rising Authors — Clean Track Records](reports/rising-authors.md)
