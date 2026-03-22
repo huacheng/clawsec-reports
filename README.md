@@ -9,3 +9,4 @@ Security audit reports and analysis of the AI agent skill ecosystem.
 
 - [Top 50 Skill Authors — Trust & Safety Leaderboard](reports/skill-authors-top50.md)
 - [suspicious-skills-watchlist](reports/suspicious-skills-watchlist.md)
+- [most-downloaded-skills](reports/most-downloaded-skills.md)
