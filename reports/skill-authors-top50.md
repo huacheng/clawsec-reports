@@ -2,11 +2,11 @@
 
 > Date: 2026-03-22 | Source: [ClawSearch](https://clawsearch.cc/#authors) | Audited by [ClawSec](https://clawsec.cc)
 
-**33155** skills indexed, **472** audited. Found **28** malicious, **229** suspicious.
+**33155** skills indexed, **477** audited. Found **28** malicious, **230** suspicious.
 
 | Rank | Author | Score | Level | Skills | Safe | Mal. | Downloads |
 |------|--------|-------|-------|--------|------|------|-----------|
-| 1 | [steipete](https://clawsearch.cc/#author/steipete) | 0.88 | trusted | 30 | 21 | 0 | 1,427,362 |
+| 1 | [steipete](https://clawsearch.cc/#author/steipete) | 0.89 | trusted | 32 | 23 | 0 | 1,459,327 |
 | 2 | [wangyendt](https://clawsearch.cc/#author/wangyendt) | 0.83 | trusted | 30 | 26 | 0 | 13,581 |
 | 3 | [virtaava](https://clawsearch.cc/#author/virtaava) | 0.79 | established | 2 | 2 | 0 | 4,552 |
 | 4 | [wangyaok1](https://clawsearch.cc/#author/wangyaok1) | 0.77 | established | 2 | 2 | 0 | 1,912 |
@@ -59,7 +59,7 @@
 
 ## Key Takeaways
 
-- **steipete** leads with **1,427,362** downloads
+- **steipete** leads with **1,459,327** downloads
 - **2** trusted authors (score 0.80+)
 - **2** authors with malicious findings: wanng-ide, vortitron
 
