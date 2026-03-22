@@ -1,0 +1,9 @@
+title: ClawSec Reports
+description: Security audit reports and analysis of the AI agent skill ecosystem
+url: "https://huacheng.github.io"
+baseurl: "/clawsec-reports"
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - reports/skill-authors-top50.md
