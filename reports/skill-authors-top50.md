@@ -1,4 +1,4 @@
-# Top 50 AI Agent Skill Authors — Trust & Safety Leaderboard
+# Top 50 AI Agent Skill Authors — Trust and Safety Leaderboard
 
 > Last updated: 2026-03-22 | Data source: [ClawSearch Authors](https://clawsearch.cc/#authors) | Powered by [ClawSec](https://clawsec.cc)
 
