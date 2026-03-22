@@ -20,23 +20,23 @@ but flagged for risky behavior patterns.
 | 11 | ⚠️ [web-search-exa](https://clawsec.cc/#skill/web-search-exa) | theishangoswami | 35% | 21,631 | Dynamic Code Evaluation |
 | 12 | ⚠️ [apple-reminders](https://clawsec.cc/#skill/apple-reminders) | steipete | 35% | 19,302 | Dynamic Code Evaluation |
 | 13 | ⚠️ [playwright-scraper-skill](https://clawsec.cc/#skill/playwright-scraper-skill) | waisimon | 42% | 18,918 | Dynamic Code Evaluation |
-| 14 | ⚠️ [api-tester](https://clawsec.cc/#skill/api-tester) | wanng-ide | 42% | 3,013 | Dynamic Code Evaluation |
-| 15 | ⚠️ [virtuals-protocol-acp](https://clawsec.cc/#skill/virtuals-protocol-acp) | virtualstechteam | 42% | 2,899 | Dynamic Code Evaluation |
-| 16 | ⚠️ [gitload](https://clawsec.cc/#skill/gitload) | waldekmastykarz | 45% | 2,692 | Dynamic Code Evaluation |
-| 17 | ⚠️ [coolify](https://clawsec.cc/#skill/coolify) | visiongeist | 28% | 2,510 | Dynamic Code Evaluation |
-| 18 | ⚠️ [radarr-plus](https://clawsec.cc/#skill/radarr-plus) | vishalchaudhary | 58% | 2,326 | Dynamic Code Evaluation |
-| 19 | ⚠️ [moltbook-daily-digest](https://clawsec.cc/#skill/moltbook-daily-digest) | wangfugui1799 | 38% | 1,878 | Dynamic Code Evaluation |
-| 20 | ⚠️ [zoom-manager-clawd](https://clawsec.cc/#skill/zoom-manager-clawd) | vnagin | 45% | 1,779 | Dynamic Code Evaluation |
-| 21 | ⚠️ [planka-cli](https://clawsec.cc/#skill/planka-cli) | voydz | 45% | 1,735 | Dynamic Code Evaluation |
-| 22 | ⚠️ [solana-transfer](https://clawsec.cc/#skill/solana-transfer) | vortitron | 65% | 1,593 | Dynamic Code Evaluation |
-| 23 | ⚠️ [serper-v](https://clawsec.cc/#skill/serper-v) | vinitngr | 62% | 1,584 | Dynamic Code Evaluation |
-| 24 | ⚠️ [garmin-cli](https://clawsec.cc/#skill/garmin-cli) | voydz | 35% | 1,511 | Dynamic Code Evaluation |
-| 25 | ⚠️ [agent-payment-protocol](https://clawsec.cc/#skill/agent-payment-protocol) | vortitron | 62% | 1,434 | Dynamic Code Evaluation |
-| 26 | ⚠️ [ralph-loop-writer](https://clawsec.cc/#skill/ralph-loop-writer) | walkamolee | 52% | 1,419 | Dynamic Code Evaluation |
-| 27 | ⚠️ [singleshot-prompt-testing](https://clawsec.cc/#skill/singleshot-prompt-testing) | vincentzhangz | 48% | 1,415 | Dynamic Code Evaluation |
-| 28 | ⚠️ [crewmind-bets](https://clawsec.cc/#skill/crewmind-bets) | vladthecto | 68% | 1,391 | Dynamic Code Evaluation |
-| 29 | ⚠️ [raglite-library](https://clawsec.cc/#skill/raglite-library) | virajsanghvi1 | 54% | 1,388 | Dynamic Code Evaluation |
-| 30 | ⚠️ [tl-dw](https://clawsec.cc/#skill/tl-dw) | vovavvk | 28% | 1,263 | Dynamic Code Evaluation |
+| 14 | ⚠️ [openai-image-gen](https://clawsec.cc/#skill/openai-image-gen) | steipete | 25% | 17,858 | Dynamic Code Evaluation |
+| 15 | ⚠️ [api-tester](https://clawsec.cc/#skill/api-tester) | wanng-ide | 42% | 3,013 | Dynamic Code Evaluation |
+| 16 | ⚠️ [virtuals-protocol-acp](https://clawsec.cc/#skill/virtuals-protocol-acp) | virtualstechteam | 42% | 2,899 | Dynamic Code Evaluation |
+| 17 | ⚠️ [gitload](https://clawsec.cc/#skill/gitload) | waldekmastykarz | 45% | 2,692 | Dynamic Code Evaluation |
+| 18 | ⚠️ [coolify](https://clawsec.cc/#skill/coolify) | visiongeist | 28% | 2,510 | Dynamic Code Evaluation |
+| 19 | ⚠️ [radarr-plus](https://clawsec.cc/#skill/radarr-plus) | vishalchaudhary | 58% | 2,326 | Dynamic Code Evaluation |
+| 20 | ⚠️ [moltbook-daily-digest](https://clawsec.cc/#skill/moltbook-daily-digest) | wangfugui1799 | 38% | 1,878 | Dynamic Code Evaluation |
+| 21 | ⚠️ [zoom-manager-clawd](https://clawsec.cc/#skill/zoom-manager-clawd) | vnagin | 45% | 1,779 | Dynamic Code Evaluation |
+| 22 | ⚠️ [planka-cli](https://clawsec.cc/#skill/planka-cli) | voydz | 45% | 1,735 | Dynamic Code Evaluation |
+| 23 | ⚠️ [solana-transfer](https://clawsec.cc/#skill/solana-transfer) | vortitron | 65% | 1,593 | Dynamic Code Evaluation |
+| 24 | ⚠️ [serper-v](https://clawsec.cc/#skill/serper-v) | vinitngr | 62% | 1,584 | Dynamic Code Evaluation |
+| 25 | ⚠️ [garmin-cli](https://clawsec.cc/#skill/garmin-cli) | voydz | 35% | 1,511 | Dynamic Code Evaluation |
+| 26 | ⚠️ [agent-payment-protocol](https://clawsec.cc/#skill/agent-payment-protocol) | vortitron | 62% | 1,434 | Dynamic Code Evaluation |
+| 27 | ⚠️ [ralph-loop-writer](https://clawsec.cc/#skill/ralph-loop-writer) | walkamolee | 52% | 1,419 | Dynamic Code Evaluation |
+| 28 | ⚠️ [singleshot-prompt-testing](https://clawsec.cc/#skill/singleshot-prompt-testing) | vincentzhangz | 48% | 1,415 | Dynamic Code Evaluation |
+| 29 | ⚠️ [crewmind-bets](https://clawsec.cc/#skill/crewmind-bets) | vladthecto | 68% | 1,391 | Dynamic Code Evaluation |
+| 30 | ⚠️ [raglite-library](https://clawsec.cc/#skill/raglite-library) | virajsanghvi1 | 54% | 1,388 | Dynamic Code Evaluation |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc) | `npx clawsearch-guard <skill>`*
