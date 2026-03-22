@@ -1,0 +1,10 @@
+# ClawSec Security Reports
+
+Security audit reports and analysis of the AI agent skill ecosystem.
+
+- [ClawSec](https://clawsec.cc) — Security audit platform for AI agent skills
+- [ClawSearch](https://clawsearch.cc) — Safe skill discovery search engine
+
+## Reports
+
+- [Top 50 Skill Authors — Trust & Safety Leaderboard](reports/skill-authors-top50.md)
