@@ -2,6 +2,21 @@ Security audit reports and analysis of the AI agent skill ecosystem.
 
 [ClawSec](https://clawsec.cc) — Security audit platform | [ClawSearch](https://clawsearch.cc) — Safe skill discovery
 
+## Quick Start
+
+```bash
+# Search skills with Trust Score
+npx clawsearch slack
+
+# Pre-install security check
+npx clawsearch-guard check slack
+
+# Search by author
+npx clawsearch @steipete
+```
+
+[![npm](https://img.shields.io/npm/v/clawsearch)](https://www.npmjs.com/package/clawsearch) [![npm](https://img.shields.io/npm/v/clawsearch-guard)](https://www.npmjs.com/package/clawsearch-guard)
+
 ## Reports
 
 - [Top 50 Authors — Trust and Safety Leaderboard](reports/skill-authors-top50.md)
