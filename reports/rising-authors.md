@@ -1,41 +1,41 @@
 # Rising AI Agent Skill Authors — Clean Track Records
 
-> Date: 2026-03-22 | Source: [ClawSearch](https://clawsearch.cc/#authors) | Audited by [ClawSec](https://clawsec.cc)
+> Date: 2026-03-23 | Source: [ClawSearch](https://clawsearch.cc/authors) | Audited by [ClawSec](https://clawsec.cc)
 
 Authors with 2+ audited skills and **zero malicious findings**.
 
 | Rank | Author | Skills | Safe | Avg Risk | Downloads | Last Audit |
 |------|--------|--------|------|----------|-----------|------------|
-| 1 | [anmolnagpal](https://clawsearch.cc/#author/anmolnagpal) | 30 | 28 | 14% | 0 | 2026-03-22 |
-| 2 | [wangyendt](https://clawsearch.cc/#author/wangyendt) | 30 | 26 | 18% | 13,581 | 2026-03-22 |
-| 3 | [steipete](https://clawsearch.cc/#author/steipete) | 30 | 21 | 21% | 1,427,362 | 2026-03-22 |
-| 4 | [antoniovfranco](https://clawsearch.cc/#author/antoniovfranco) | 20 | 13 | 22% | 0 | 2026-03-22 |
-| 5 | [anugotta](https://clawsearch.cc/#author/anugotta) | 13 | 12 | 13% | 0 | 2026-03-22 |
-| 6 | [wangzhiming1999](https://clawsearch.cc/#author/wangzhiming1999) | 13 | 8 | 18% | 4,551 | 2026-03-22 |
-| 7 | [anmu14641](https://clawsearch.cc/#author/anmu14641) | 9 | 7 | 19% | 0 | 2026-03-22 |
-| 8 | [vishalgojha](https://clawsearch.cc/#author/vishalgojha) | 10 | 6 | 27% | 3,622 | 2026-03-22 |
-| 9 | [ant-1984](https://clawsearch.cc/#author/ant-1984) | 18 | 3 | 40% | 0 | 2026-03-22 |
-| 10 | [anthonymq](https://clawsearch.cc/#author/anthonymq) | 2 | 2 | 8% | 0 | 2026-03-22 |
-| 11 | [wahddbing](https://clawsearch.cc/#author/wahddbing) | 2 | 2 | 11% | 551 | 2026-03-22 |
-| 12 | [wangyaok1](https://clawsearch.cc/#author/wangyaok1) | 2 | 2 | 11% | 1,912 | 2026-03-22 |
-| 13 | [anoyix](https://clawsearch.cc/#author/anoyix) | 2 | 2 | 12% | 0 | 2026-03-22 |
-| 14 | [virtaava](https://clawsearch.cc/#author/virtaava) | 2 | 2 | 24% | 4,552 | 2026-03-22 |
-| 15 | [warm-wm](https://clawsearch.cc/#author/warm-wm) | 4 | 2 | 28% | 2,893 | 2026-03-22 |
-| 16 | [anotb](https://clawsearch.cc/#author/anotb) | 3 | 2 | 29% | 0 | 2026-03-22 |
-| 17 | [aowind](https://clawsearch.cc/#author/aowind) | 3 | 2 | 31% | 0 | 2026-03-22 |
-| 18 | [virajsanghvi1](https://clawsearch.cc/#author/virajsanghvi1) | 4 | 2 | 36% | 6,740 | 2026-03-22 |
-| 19 | [violin](https://clawsearch.cc/#author/violin) | 2 | 1 | 22% | 436 | 2026-03-22 |
-| 20 | [warriorfan](https://clawsearch.cc/#author/warriorfan) | 2 | 1 | 22% | 362 | 2026-03-22 |
-| 21 | [thesethrose](https://clawsearch.cc/#author/thesethrose) | 2 | 1 | 25% | 175,795 | 2026-03-22 |
-| 22 | [anthony-maio](https://clawsearch.cc/#author/anthony-maio) | 3 | 1 | 26% | 0 | 2026-03-22 |
-| 23 | [waldyrious](https://clawsearch.cc/#author/waldyrious) | 2 | 1 | 28% | 2,175 | 2026-03-22 |
-| 24 | [anlittledy](https://clawsearch.cc/#author/anlittledy) | 2 | 1 | 30% | 0 | 2026-03-22 |
-| 25 | [vokaplok](https://clawsearch.cc/#author/vokaplok) | 2 | 1 | 32% | 1,421 | 2026-03-22 |
-| 26 | [antaeus001](https://clawsearch.cc/#author/antaeus001) | 2 | 1 | 32% | 0 | 2026-03-22 |
-| 27 | [antoinedc](https://clawsearch.cc/#author/antoinedc) | 2 | 1 | 32% | 0 | 2026-03-22 |
-| 28 | [antgly](https://clawsearch.cc/#author/antgly) | 3 | 1 | 34% | 0 | 2026-03-22 |
-| 29 | [vmining](https://clawsearch.cc/#author/vmining) | 3 | 1 | 35% | 1,114 | 2026-03-22 |
-| 30 | [voydz](https://clawsearch.cc/#author/voydz) | 3 | 1 | 36% | 5,135 | 2026-03-22 |
+| 1 | [steipete](https://clawsearch.cc/author/steipete) | 54 | 36 | 21% | 1,596,812 | 2026-03-22 |
+| 2 | [anmolnagpal](https://clawsearch.cc/author/anmolnagpal) | 30 | 28 | 14% | 5,206 | 2026-03-22 |
+| 3 | [wangyendt](https://clawsearch.cc/author/wangyendt) | 30 | 26 | 18% | 13,581 | 2026-03-22 |
+| 4 | [mrgoodb](https://clawsearch.cc/author/mrgoodb) | 15 | 13 | 19% | 165,696 | 2026-03-23 |
+| 5 | [antoniovfranco](https://clawsearch.cc/author/antoniovfranco) | 20 | 13 | 22% | 800 | 2026-03-22 |
+| 6 | [anugotta](https://clawsearch.cc/author/anugotta) | 13 | 12 | 13% | 363 | 2026-03-22 |
+| 7 | [ivangdavila](https://clawsearch.cc/author/ivangdavila) | 13 | 11 | 15% | 268,712 | 2026-03-23 |
+| 8 | [wangzhiming1999](https://clawsearch.cc/author/wangzhiming1999) | 13 | 8 | 18% | 4,551 | 2026-03-22 |
+| 9 | [anmu14641](https://clawsearch.cc/author/anmu14641) | 9 | 7 | 19% | 1,462 | 2026-03-22 |
+| 10 | [kesslerio](https://clawsearch.cc/author/kesslerio) | 12 | 7 | 31% | 62,091 | 2026-03-23 |
+| 11 | [vishalgojha](https://clawsearch.cc/author/vishalgojha) | 10 | 6 | 27% | 3,622 | 2026-03-22 |
+| 12 | [kowl64](https://clawsearch.cc/author/kowl64) | 5 | 5 | 9% | 33,862 | 2026-03-23 |
+| 13 | [mikecourt](https://clawsearch.cc/author/mikecourt) | 4 | 4 | 9% | 10,778 | 2026-03-23 |
+| 14 | [tomstools11](https://clawsearch.cc/author/tomstools11) | 7 | 4 | 23% | 27,775 | 2026-03-22 |
+| 15 | [tkuehnl](https://clawsearch.cc/author/tkuehnl) | 7 | 4 | 26% | 3,849 | 2026-03-22 |
+| 16 | [odrobnik](https://clawsearch.cc/author/odrobnik) | 8 | 4 | 30% | 26,110 | 2026-03-23 |
+| 17 | [therohitdas](https://clawsearch.cc/author/therohitdas) | 15 | 4 | 34% | 45,954 | 2026-03-22 |
+| 18 | [shashwatgtm](https://clawsearch.cc/author/shashwatgtm) | 4 | 3 | 24% | 12,252 | 2026-03-22 |
+| 19 | [robbyczgw-cla](https://clawsearch.cc/author/robbyczgw-cla) | 8 | 3 | 30% | 50,370 | 2026-03-23 |
+| 20 | [nextfrontierbuilds](https://clawsearch.cc/author/nextfrontierbuilds) | 8 | 3 | 34% | 61,874 | 2026-03-23 |
+| 21 | [shaharsha](https://clawsearch.cc/author/shaharsha) | 9 | 3 | 36% | 25,550 | 2026-03-22 |
+| 22 | [ant-1984](https://clawsearch.cc/author/ant-1984) | 18 | 3 | 40% | 3,184 | 2026-03-22 |
+| 23 | [anthonymq](https://clawsearch.cc/author/anthonymq) | 2 | 2 | 8% | 3,146 | 2026-03-22 |
+| 24 | [peterokase42](https://clawsearch.cc/author/peterokase42) | 2 | 2 | 10% | 10,107 | 2026-03-23 |
+| 25 | [wahddbing](https://clawsearch.cc/author/wahddbing) | 2 | 2 | 11% | 551 | 2026-03-22 |
+| 26 | [wangyaok1](https://clawsearch.cc/author/wangyaok1) | 2 | 2 | 11% | 1,912 | 2026-03-22 |
+| 27 | [nesdeq](https://clawsearch.cc/author/nesdeq) | 2 | 2 | 12% | 6,955 | 2026-03-23 |
+| 28 | [anoyix](https://clawsearch.cc/author/anoyix) | 2 | 2 | 12% | 355 | 2026-03-22 |
+| 29 | [tobihagemann](https://clawsearch.cc/author/tobihagemann) | 2 | 2 | 12% | 1,000 | 2026-03-22 |
+| 30 | [nickhamze](https://clawsearch.cc/author/nickhamze) | 2 | 2 | 18% | 7,495 | 2026-03-23 |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc)*
