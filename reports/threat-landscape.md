@@ -1,45 +1,45 @@
 # AI Agent Skill Threat Landscape
 
-> Date: 2026-03-22 | Audited by [ClawSec](https://clawsec.cc)
+> Date: 2026-03-23 | Audited by [ClawSec](https://clawsec.cc)
 
-Analysis of **4396** threats detected across **472** audited skills.
+Analysis of **14659** threats detected across **1949** audited skills.
 
 ## Threats by Severity
 
 | Severity | Count | % |
 |----------|-------|---|
-| CRITICAL | 190 | 4% |
-| HIGH | 1172 | 27% |
-| MEDIUM | 838 | 19% |
-| LOW | 2196 | 50% |
+| CRITICAL | 766 | 5% |
+| HIGH | 4523 | 31% |
+| MEDIUM | 2710 | 18% |
+| LOW | 6660 | 45% |
 
 ## Top 15 Threat Types
 
 | Threat | Count | Severity |
 |--------|-------|----------|
-| LLM Semantic Detection | 3222 | LOW |
-| Startup Failure (non-executable) | 472 | LOW |
-| Dynamic Code Evaluation | 457 | HIGH |
-| Outbound Data Transfer | 106 | HIGH |
-| Hidden Command Execution | 62 | MEDIUM |
-| Environment Variable Exfiltration | 22 | CRITICAL |
-| Private Key Extraction | 13 | CRITICAL |
-| Remote Script Execution | 7 | CRITICAL |
-| Base64 Encoded Payload | 6 | HIGH |
-| Cryptocurrency Wallet Access | 6 | CRITICAL |
-| Cron Job Installation | 5 | HIGH |
-| Systemd Service Installation | 4 | HIGH |
-| Shell RC Modification | 4 | HIGH |
-| Webhook Data Send | 3 | MEDIUM |
-| Obfuscated Code | 3 | MEDIUM |
+| LLM Semantic Detection | 9281 | LOW |
+| Startup Failure (non-executable) | 1949 | LOW |
+| Dynamic Code Evaluation | 1894 | HIGH |
+| Outbound Data Transfer | 699 | HIGH |
+| Hidden Command Execution | 354 | MEDIUM |
+| Environment Variable Exfiltration | 107 | CRITICAL |
+| Private Key Extraction | 107 | CRITICAL |
+| Remote Script Execution | 57 | CRITICAL |
+| Base64 Encoded Payload | 49 | HIGH |
+| Cryptocurrency Wallet Access | 27 | CRITICAL |
+| Cron Job Installation | 26 | HIGH |
+| Systemd Service Installation | 21 | HIGH |
+| Shell RC Modification | 19 | HIGH |
+| Webhook Data Send | 17 | MEDIUM |
+| Obfuscated Code | 13 | MEDIUM |
 
 ## Threats by Verdict
 
 | Verdict | Threats | Avg Threats/Skill |
 |---------|---------|-------------------|
-| MALICIOUS | 315 | 11.2 |
-| SUSPICIOUS | 2329 | 10.2 |
-| SAFE | 1746 | 8.2 |
+| MALICIOUS | 1837 | 8.1 |
+| SUSPICIOUS | 8143 | 7.0 |
+| SAFE | 4664 | 8.5 |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc)*
