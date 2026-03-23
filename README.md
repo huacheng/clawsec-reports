@@ -57,3 +57,4 @@ npx clawsearch @steipete
 - [2026-03-23 ecosystem-health](reports/2026-03-23-ecosystem-health.md)
 - [2026-03-23 high-risk-authors](reports/2026-03-23-high-risk-authors.md)
 - [2026-03-23 sandbox-results](reports/2026-03-23-sandbox-results.md)
+- [2026-03-23 top-by-category](reports/2026-03-23-top-by-category.md)
