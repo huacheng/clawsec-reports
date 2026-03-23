@@ -2,7 +2,7 @@
 
 > Date: 2026-03-23 | Audited by [ClawSec](https://clawsec.cc)
 
-**228** malicious skills detected out of **1949** audited.
+**229** malicious skills detected out of **1962** audited.
 
 ### 1. 🚨 humanize-ai-text by moltbro
 
@@ -973,7 +973,24 @@
 
 ---
 
-### 58. 🚨 ecap-security-auditor by starbuck100
+### 58. 🚨 mintyouragent by operatingdev
+
+**Risk:** 88% █████████░ | **Downloads:** 2,236
+
+> A Python CLI skill for Solana blockchain operations — launching tokens on pump.fun, playing heads-up poker with real SOL stakes, managing wallets with
+
+**Threats detected:**
+- `[HIGH]` Dynamic Code Evaluation
+- `[HIGH]` Base64 Encoded Payload
+- `[HIGH]` Outbound Data Transfer
+- `[CRITICAL]` Cryptocurrency Wallet Access
+- `[CRITICAL]` Private Key Extraction
+
+[Full report →](https://clawsec.cc/skill/mintyouragent)
+
+---
+
+### 59. 🚨 ecap-security-auditor by starbuck100
 
 **Risk:** 85% ████████░░ | **Downloads:** 2,201
 
@@ -990,7 +1007,7 @@
 
 ---
 
-### 59. 🚨 molt-chess by tedkaczynski-the-bot
+### 60. 🚨 molt-chess by tedkaczynski-the-bot
 
 **Risk:** 100% ██████████ | **Downloads:** 2,185
 
@@ -1005,7 +1022,7 @@
 
 ---
 
-### 60. 🚨 nostr-social by shawnyeager
+### 61. 🚨 nostr-social by shawnyeager
 
 **Risk:** 100% ██████████ | **Downloads:** 2,177
 
@@ -1020,7 +1037,7 @@
 
 ---
 
-### 61. 🚨 alpha-finder by tzannetosgiannis
+### 62. 🚨 alpha-finder by tzannetosgiannis
 
 **Risk:** 93% █████████░ | **Downloads:** 2,150
 
@@ -1034,7 +1051,7 @@
 
 ---
 
-### 62. 🚨 find-people by tzannetosgiannis
+### 63. 🚨 find-people by tzannetosgiannis
 
 **Risk:** 93% █████████░ | **Downloads:** 2,065
 
@@ -1048,7 +1065,7 @@
 
 ---
 
-### 63. 🚨 clawdbot-sync by udiedrichsen
+### 64. 🚨 clawdbot-sync by udiedrichsen
 
 **Risk:** 93% █████████░ | **Downloads:** 2,055
 
@@ -1062,7 +1079,7 @@
 
 ---
 
-### 64. 🚨 openguardrails by thomaslwang
+### 65. 🚨 openguardrails by thomaslwang
 
 **Risk:** 80% ████████░░ | **Downloads:** 2,036
 
@@ -1077,7 +1094,7 @@
 
 ---
 
-### 65. 🚨 deepclaw by antibitcoin
+### 66. 🚨 deepclaw by antibitcoin
 
 **Risk:** 92% █████████░ | **Downloads:** 2,007
 
@@ -1094,7 +1111,7 @@
 
 ---
 
-### 66. 🚨 openindex by titocosta
+### 67. 🚨 openindex by titocosta
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,990
 
@@ -1108,7 +1125,7 @@
 
 ---
 
-### 67. 🚨 solana-skills by spendit-ai
+### 68. 🚨 solana-skills by spendit-ai
 
 **Risk:** 100% ██████████ | **Downloads:** 1,980
 
@@ -1124,7 +1141,7 @@
 
 ---
 
-### 68. 🚨 airc by vortitron
+### 69. 🚨 airc by vortitron
 
 **Risk:** 78% ████████░░ | **Downloads:** 1,980
 
@@ -1141,7 +1158,7 @@
 
 ---
 
-### 69. 🚨 cabin-sol by sp0oby
+### 70. 🚨 cabin-sol by sp0oby
 
 **Risk:** 100% ██████████ | **Downloads:** 1,964
 
@@ -1156,7 +1173,7 @@
 
 ---
 
-### 70. 🚨 azure-ai-voicelive-py by thegovind
+### 71. 🚨 azure-ai-voicelive-py by thegovind
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,868
 
@@ -1171,7 +1188,7 @@
 
 ---
 
-### 71. 🚨 youtube-instant-article by viticci
+### 72. 🚨 youtube-instant-article by viticci
 
 **Risk:** 100% ██████████ | **Downloads:** 1,841
 
@@ -1186,7 +1203,7 @@
 
 ---
 
-### 72. 🚨 clawcast by tezatezaz
+### 73. 🚨 clawcast by tezatezaz
 
 **Risk:** 100% ██████████ | **Downloads:** 1,823
 
@@ -1203,7 +1220,7 @@
 
 ---
 
-### 73. 🚨 moltguild by antefex
+### 74. 🚨 moltguild by antefex
 
 **Risk:** 87% █████████░ | **Downloads:** 1,797
 
@@ -1220,7 +1237,7 @@
 
 ---
 
-### 74. 🚨 mac-reminders-agent by swancho
+### 75. 🚨 mac-reminders-agent by swancho
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,791
 
@@ -1235,7 +1252,7 @@
 
 ---
 
-### 75. 🚨 voidborne by voidborne-agent
+### 76. 🚨 voidborne by voidborne-agent
 
 **Risk:** 85% ████████░░ | **Downloads:** 1,772
 
@@ -1252,7 +1269,7 @@
 
 ---
 
-### 76. 🚨 sendgrid-skills by vince-winkintel
+### 77. 🚨 sendgrid-skills by vince-winkintel
 
 **Risk:** 100% ██████████ | **Downloads:** 1,770
 
@@ -1267,7 +1284,7 @@
 
 ---
 
-### 77. 🚨 zapper by spirosrap
+### 78. 🚨 zapper by spirosrap
 
 **Risk:** 100% ██████████ | **Downloads:** 1,750
 
@@ -1282,7 +1299,7 @@
 
 ---
 
-### 78. 🚨 clawdcasino by synthpolis
+### 79. 🚨 clawdcasino by synthpolis
 
 **Risk:** 100% ██████████ | **Downloads:** 1,731
 
@@ -1297,7 +1314,7 @@
 
 ---
 
-### 79. 🚨 agentchan by vvsotnikov
+### 80. 🚨 agentchan by vvsotnikov
 
 **Risk:** 88% █████████░ | **Downloads:** 1,719
 
@@ -1314,7 +1331,7 @@
 
 ---
 
-### 80. 🚨 reverse-proxy-local by tsheasha
+### 81. 🚨 reverse-proxy-local by tsheasha
 
 **Risk:** 100% ██████████ | **Downloads:** 1,659
 
@@ -1329,7 +1346,7 @@
 
 ---
 
-### 81. 🚨 peer-reviewer by sschepis
+### 82. 🚨 peer-reviewer by sschepis
 
 **Risk:** 100% ██████████ | **Downloads:** 1,628
 
@@ -1344,7 +1361,7 @@
 
 ---
 
-### 82. 🚨 claude-agent-sdk by veeramanikandanr48
+### 83. 🚨 claude-agent-sdk by veeramanikandanr48
 
 **Risk:** 100% ██████████ | **Downloads:** 1,623
 
@@ -1359,7 +1376,7 @@
 
 ---
 
-### 83. 🚨 parallel-ai-search by tristanmanchester
+### 84. 🚨 parallel-ai-search by tristanmanchester
 
 **Risk:** 100% ██████████ | **Downloads:** 1,617
 
@@ -1374,7 +1391,7 @@
 
 ---
 
-### 84. 🚨 dividend-growth-pullback-screener by veeramanikandanr48
+### 85. 🚨 dividend-growth-pullback-screener by veeramanikandanr48
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,604
 
@@ -1389,7 +1406,7 @@
 
 ---
 
-### 85. 🚨 evm-wallet-clawcast by tezatezaz
+### 86. 🚨 evm-wallet-clawcast by tezatezaz
 
 **Risk:** 100% ██████████ | **Downloads:** 1,574
 
@@ -1406,7 +1423,7 @@
 
 ---
 
-### 86. 🚨 intercom by tracsystems
+### 87. 🚨 intercom by tracsystems
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,570
 
@@ -1420,7 +1437,7 @@
 
 ---
 
-### 87. 🚨 abn-skill by tylerhuff
+### 88. 🚨 abn-skill by tylerhuff
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,568
 
@@ -1434,7 +1451,7 @@
 
 ---
 
-### 88. 🚨 kameo-free by veya2ztn
+### 89. 🚨 kameo-free by veya2ztn
 
 **Risk:** 100% ██████████ | **Downloads:** 1,555
 
@@ -1446,22 +1463,6 @@
 - `[HIGH]` Outbound Data Transfer
 
 [Full report →](https://clawsec.cc/skill/kameo-free)
-
----
-
-### 89. 🚨 earn-passive-income-claw-agent by tarzelf
-
-**Risk:** 100% ██████████ | **Downloads:** 1,553
-
-> LLM analysis failed: proxy returned no response
-
-**Threats detected:**
-- `[HIGH]` Dynamic Code Evaluation
-- `[CRITICAL]` Environment Variable Exfiltration
-- `[HIGH]` Outbound Data Transfer
-- `[CRITICAL]` Private Key Extraction
-
-[Full report →](https://clawsec.cc/skill/earn-passive-income-claw-agent)
 
 ---
 
@@ -1480,7 +1481,23 @@
 
 ---
 
-### 91. 🚨 chaoschain by sumeetchougule
+### 91. 🚨 earn-passive-income-claw-agent by tarzelf
+
+**Risk:** 100% ██████████ | **Downloads:** 1,553
+
+> LLM analysis failed: proxy returned no response
+
+**Threats detected:**
+- `[HIGH]` Dynamic Code Evaluation
+- `[CRITICAL]` Environment Variable Exfiltration
+- `[HIGH]` Outbound Data Transfer
+- `[CRITICAL]` Private Key Extraction
+
+[Full report →](https://clawsec.cc/skill/earn-passive-income-claw-agent)
+
+---
+
+### 92. 🚨 chaoschain by sumeetchougule
 
 **Risk:** 100% ██████████ | **Downloads:** 1,541
 
@@ -1497,7 +1514,7 @@
 
 ---
 
-### 92. 🚨 lambda-lang by swaylq
+### 93. 🚨 lambda-lang by swaylq
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,540
 
@@ -1511,7 +1528,7 @@
 
 ---
 
-### 93. 🚨 clanker by spirosrap
+### 94. 🚨 clanker by spirosrap
 
 **Risk:** 100% ██████████ | **Downloads:** 1,523
 
@@ -1526,7 +1543,7 @@
 
 ---
 
-### 94. 🚨 skill-auditor-pro by sypsyp97
+### 95. 🚨 skill-auditor-pro by sypsyp97
 
 **Risk:** 100% ██████████ | **Downloads:** 1,514
 
@@ -1543,7 +1560,7 @@
 
 ---
 
-### 95. 🚨 tabussen by simskii
+### 96. 🚨 tabussen by simskii
 
 **Risk:** 100% ██████████ | **Downloads:** 1,504
 
@@ -1558,7 +1575,7 @@
 
 ---
 
-### 96. 🚨 maestro-skill by vardominator
+### 97. 🚨 maestro-skill by vardominator
 
 **Risk:** 100% ██████████ | **Downloads:** 1,496
 
@@ -1574,7 +1591,7 @@
 
 ---
 
-### 97. 🚨 agirails by unima3x
+### 98. 🚨 agirails by unima3x
 
 **Risk:** 100% ██████████ | **Downloads:** 1,495
 
@@ -1590,7 +1607,7 @@
 
 ---
 
-### 98. 🚨 tencentcloud-cos by shawnminh
+### 99. 🚨 tencentcloud-cos by shawnminh
 
 **Risk:** 93% █████████░ | **Downloads:** 1,438
 
@@ -1604,7 +1621,7 @@
 
 ---
 
-### 99. 🚨 tencentcloud-cos-skill by shawnminh
+### 100. 🚨 tencentcloud-cos-skill by shawnminh
 
 **Risk:** 93% █████████░ | **Downloads:** 1,433
 
@@ -1618,7 +1635,7 @@
 
 ---
 
-### 100. 🚨 imap-idle by topitip
+### 101. 🚨 imap-idle by topitip
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,433
 
@@ -1633,7 +1650,7 @@
 
 ---
 
-### 101. 🚨 aikek by vvsotnikov
+### 102. 🚨 aikek by vvsotnikov
 
 **Risk:** 100% ██████████ | **Downloads:** 1,428
 
@@ -1648,7 +1665,7 @@
 
 ---
 
-### 102. 🚨 clerk-auth by veeramanikandanr48
+### 103. 🚨 clerk-auth by veeramanikandanr48
 
 **Risk:** 100% ██████████ | **Downloads:** 1,417
 
@@ -1663,7 +1680,7 @@
 
 ---
 
-### 103. 🚨 gekko-yield by sergey1997
+### 104. 🚨 gekko-yield by sergey1997
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,406
 
@@ -1677,7 +1694,7 @@
 
 ---
 
-### 104. 🚨 tencent-cloud-cos-skill by shawnminh
+### 105. 🚨 tencent-cloud-cos-skill by shawnminh
 
 **Risk:** 93% █████████░ | **Downloads:** 1,382
 
@@ -1691,7 +1708,7 @@
 
 ---
 
-### 105. 🚨 autobahn by unifiedh
+### 106. 🚨 autobahn by unifiedh
 
 **Risk:** 100% ██████████ | **Downloads:** 1,368
 
@@ -1706,7 +1723,7 @@
 
 ---
 
-### 106. 🚨 hydra-evolver by spamtylor
+### 107. 🚨 hydra-evolver by spamtylor
 
 **Risk:** 93% █████████░ | **Downloads:** 1,367
 
@@ -1720,7 +1737,7 @@
 
 ---
 
-### 107. 🚨 runstr-fitness by thewildhustle
+### 108. 🚨 runstr-fitness by thewildhustle
 
 **Risk:** 100% ██████████ | **Downloads:** 1,358
 
@@ -1736,7 +1753,7 @@
 
 ---
 
-### 108. 🚨 botmadang by upstage-deployment
+### 109. 🚨 botmadang by upstage-deployment
 
 **Risk:** 100% ██████████ | **Downloads:** 1,348
 
@@ -1751,7 +1768,7 @@
 
 ---
 
-### 109. 🚨 moltarena by solburnaddress
+### 110. 🚨 moltarena by solburnaddress
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,343
 
@@ -1765,7 +1782,7 @@
 
 ---
 
-### 110. 🚨 agent-security-monitor by suzxclaw
+### 111. 🚨 agent-security-monitor by suzxclaw
 
 **Risk:** 100% ██████████ | **Downloads:** 1,339
 
@@ -1778,22 +1795,6 @@
 - `[HIGH]` Pastebin Upload
 
 [Full report →](https://clawsec.cc/skill/agent-security-monitor)
-
----
-
-### 111. 🚨 tokenbroker by starrftw
-
-**Risk:** 100% ██████████ | **Downloads:** 1,331
-
-> LLM analysis failed: proxy returned no response
-
-**Threats detected:**
-- `[HIGH]` Dynamic Code Evaluation
-- `[CRITICAL]` Environment Variable Exfiltration
-- `[HIGH]` Outbound Data Transfer
-- `[CRITICAL]` Private Key Extraction
-
-[Full report →](https://clawsec.cc/skill/tokenbroker)
 
 ---
 
@@ -1812,7 +1813,23 @@
 
 ---
 
-### 113. 🚨 github-mpc by tsvetelin-kulinski
+### 113. 🚨 tokenbroker by starrftw
+
+**Risk:** 100% ██████████ | **Downloads:** 1,331
+
+> LLM analysis failed: proxy returned no response
+
+**Threats detected:**
+- `[HIGH]` Dynamic Code Evaluation
+- `[CRITICAL]` Environment Variable Exfiltration
+- `[HIGH]` Outbound Data Transfer
+- `[CRITICAL]` Private Key Extraction
+
+[Full report →](https://clawsec.cc/skill/tokenbroker)
+
+---
+
+### 114. 🚨 github-mpc by tsvetelin-kulinski
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,307
 
@@ -1826,7 +1843,7 @@
 
 ---
 
-### 114. 🚨 minimax-mcp by tangusers
+### 115. 🚨 minimax-mcp by tangusers
 
 **Risk:** 80% ████████░░ | **Downloads:** 1,297
 
@@ -1840,7 +1857,7 @@
 
 ---
 
-### 115. 🚨 ollama-memory-embeddings by vidarbrekke
+### 116. 🚨 ollama-memory-embeddings by vidarbrekke
 
 **Risk:** 100% ██████████ | **Downloads:** 1,272
 
@@ -1855,7 +1872,7 @@
 
 ---
 
-### 116. 🚨 tencentcloud-cos-skills by shawnminh
+### 117. 🚨 tencentcloud-cos-skills by shawnminh
 
 **Risk:** 93% █████████░ | **Downloads:** 1,271
 
@@ -1869,7 +1886,7 @@
 
 ---
 
-### 117. 🚨 security-dashboard by vegasbrianc
+### 118. 🚨 security-dashboard by vegasbrianc
 
 **Risk:** 100% ██████████ | **Downloads:** 1,266
 
@@ -1885,7 +1902,7 @@
 
 ---
 
-### 118. 🚨 agenthc-market-intelligence by traderhc123
+### 119. 🚨 agenthc-market-intelligence by traderhc123
 
 **Risk:** 100% ██████████ | **Downloads:** 1,253
 
@@ -1900,7 +1917,7 @@
 
 ---
 
-### 119. 🚨 pilot-protocol by teoslayer
+### 120. 🚨 pilot-protocol by teoslayer
 
 **Risk:** 100% ██████████ | **Downloads:** 1,235
 
@@ -1915,7 +1932,7 @@
 
 ---
 
-### 120. 🚨 openclaw-skill-auditor by sypsyp97
+### 121. 🚨 openclaw-skill-auditor by sypsyp97
 
 **Risk:** 100% ██████████ | **Downloads:** 1,224
 
@@ -1932,7 +1949,7 @@
 
 ---
 
-### 121. 🚨 sys-updater by spiceman161
+### 122. 🚨 sys-updater by spiceman161
 
 **Risk:** 100% ██████████ | **Downloads:** 1,222
 
@@ -1949,7 +1966,7 @@
 
 ---
 
-### 122. 🚨 moltmarkets-trading by shirtlessfounder
+### 123. 🚨 moltmarkets-trading by shirtlessfounder
 
 **Risk:** 100% ██████████ | **Downloads:** 1,215
 
@@ -1964,7 +1981,7 @@
 
 ---
 
-### 123. 🚨 canary by sukiraman
+### 124. 🚨 canary by sukiraman
 
 **Risk:** 100% ██████████ | **Downloads:** 1,205
 
@@ -1981,7 +1998,7 @@
 
 ---
 
-### 124. 🚨 near-multi-account-manager by shaiss
+### 125. 🚨 near-multi-account-manager by shaiss
 
 **Risk:** 100% ██████████ | **Downloads:** 1,173
 
@@ -1996,7 +2013,7 @@
 
 ---
 
-### 125. 🚨 arkade-wallet by tiero
+### 126. 🚨 arkade-wallet by tiero
 
 **Risk:** 100% ██████████ | **Downloads:** 1,170
 
@@ -2011,7 +2028,7 @@
 
 ---
 
-### 126. 🚨 hallo123 by simonkoeck
+### 127. 🚨 hallo123 by simonkoeck
 
 **Risk:** 100% ██████████ | **Downloads:** 1,157
 
@@ -2026,7 +2043,7 @@
 
 ---
 
-### 127. 🚨 intercom-v002 by tracsystems
+### 128. 🚨 intercom-v002 by tracsystems
 
 **Risk:** 100% ██████████ | **Downloads:** 1,147
 
@@ -2041,7 +2058,7 @@
 
 ---
 
-### 128. 🚨 routstr-balance-management by sh1ftred
+### 129. 🚨 routstr-balance-management by sh1ftred
 
 **Risk:** 100% ██████████ | **Downloads:** 1,146
 
@@ -2056,7 +2073,7 @@
 
 ---
 
-### 129. 🚨 clawcast-wallet by tezatezaz
+### 130. 🚨 clawcast-wallet by tezatezaz
 
 **Risk:** 100% ██████████ | **Downloads:** 1,142
 
@@ -2073,7 +2090,7 @@
 
 ---
 
-### 130. 🚨 submit-to-agentbeat by togodn2
+### 131. 🚨 submit-to-agentbeat by togodn2
 
 **Risk:** 100% ██████████ | **Downloads:** 1,140
 
@@ -2089,7 +2106,7 @@
 
 ---
 
-### 131. 🚨 aip-identity by the-nexus-guard
+### 132. 🚨 aip-identity by the-nexus-guard
 
 **Risk:** 100% ██████████ | **Downloads:** 1,120
 
@@ -2105,7 +2122,7 @@
 
 ---
 
-### 132. 🚨 cifer-security by tip-citron
+### 133. 🚨 cifer-security by tip-citron
 
 **Risk:** 100% ██████████ | **Downloads:** 1,100
 
@@ -2120,7 +2137,7 @@
 
 ---
 
-### 133. 🚨 turing-pyramid by tensusds
+### 134. 🚨 turing-pyramid by tensusds
 
 **Risk:** 100% ██████████ | **Downloads:** 1,092
 
@@ -2136,7 +2153,7 @@
 
 ---
 
-### 134. 🚨 cast by tezatezaz
+### 135. 🚨 cast by tezatezaz
 
 **Risk:** 100% ██████████ | **Downloads:** 1,089
 
@@ -2153,7 +2170,7 @@
 
 ---
 
-### 135. 🚨 solclaw by sterdam
+### 136. 🚨 solclaw by sterdam
 
 **Risk:** 100% ██████████ | **Downloads:** 1,088
 
@@ -2168,7 +2185,7 @@
 
 ---
 
-### 136. 🚨 openclaw-credential-manager by teeclaw
+### 137. 🚨 openclaw-credential-manager by teeclaw
 
 **Risk:** 100% ██████████ | **Downloads:** 1,086
 
@@ -2183,7 +2200,7 @@
 
 ---
 
-### 137. 🚨 base-8004 by squirt11e
+### 138. 🚨 base-8004 by squirt11e
 
 **Risk:** 100% ██████████ | **Downloads:** 1,080
 
@@ -2198,7 +2215,7 @@
 
 ---
 
-### 138. 🚨 clawmegle-staking by tedkaczynski-the-bot
+### 139. 🚨 clawmegle-staking by tedkaczynski-the-bot
 
 **Risk:** 93% █████████░ | **Downloads:** 1,067
 
@@ -2212,7 +2229,7 @@
 
 ---
 
-### 139. 🚨 pixelclaws by thesimj
+### 140. 🚨 pixelclaws by thesimj
 
 **Risk:** 100% ██████████ | **Downloads:** 1,059
 
@@ -2227,7 +2244,7 @@
 
 ---
 
-### 140. 🚨 x-search by tzannetosgiannis
+### 141. 🚨 x-search by tzannetosgiannis
 
 **Risk:** 82% ████████░░ | **Downloads:** 1,053
 
@@ -2244,7 +2261,7 @@
 
 ---
 
-### 141. 🚨 hackathon by swairshah
+### 142. 🚨 hackathon by swairshah
 
 **Risk:** 100% ██████████ | **Downloads:** 1,052
 
@@ -2259,7 +2276,7 @@
 
 ---
 
-### 142. 🚨 agentaudit by starbuck100
+### 143. 🚨 agentaudit by starbuck100
 
 **Risk:** 100% ██████████ | **Downloads:** 1,038
 
@@ -2276,7 +2293,7 @@
 
 ---
 
-### 143. 🚨 alephnet-node by sschepis
+### 144. 🚨 alephnet-node by sschepis
 
 **Risk:** 100% ██████████ | **Downloads:** 1,029
 
@@ -2291,7 +2308,7 @@
 
 ---
 
-### 144. 🚨 prompt-shield by stlas
+### 145. 🚨 prompt-shield by stlas
 
 **Risk:** 100% ██████████ | **Downloads:** 1,021
 
@@ -2308,7 +2325,7 @@
 
 ---
 
-### 145. 🚨 solana-sniper-bot by srikanthbellary
+### 146. 🚨 solana-sniper-bot by srikanthbellary
 
 **Risk:** 100% ██████████ | **Downloads:** 1,009
 
@@ -2325,7 +2342,7 @@
 
 ---
 
-### 146. 🚨 blinko by tolibear
+### 147. 🚨 blinko by tolibear
 
 **Risk:** 80% ████████░░ | **Downloads:** 992
 
@@ -2339,7 +2356,7 @@
 
 ---
 
-### 147. 🚨 tork-guardian by torkjacobs
+### 148. 🚨 tork-guardian by torkjacobs
 
 **Risk:** 100% ██████████ | **Downloads:** 938
 
@@ -2356,7 +2373,7 @@
 
 ---
 
-### 148. 🚨 jimeng-video by tel18610240060-collab
+### 149. 🚨 jimeng-video by tel18610240060-collab
 
 **Risk:** 100% ██████████ | **Downloads:** 929
 
@@ -2371,7 +2388,7 @@
 
 ---
 
-### 149. 🚨 e2ee by titocosta
+### 150. 🚨 e2ee by titocosta
 
 **Risk:** 80% ████████░░ | **Downloads:** 929
 
@@ -2385,7 +2402,7 @@
 
 ---
 
-### 150. 🚨 bittensor-sdk by taoleeh
+### 151. 🚨 bittensor-sdk by taoleeh
 
 **Risk:** 80% ████████░░ | **Downloads:** 918
 
@@ -2399,7 +2416,7 @@
 
 ---
 
-### 151. 🚨 bitcoin-arkade-wallet by tiero
+### 152. 🚨 bitcoin-arkade-wallet by tiero
 
 **Risk:** 100% ██████████ | **Downloads:** 912
 
@@ -2415,7 +2432,7 @@
 
 ---
 
-### 152. 🚨 rlm-controller by skywyze
+### 153. 🚨 rlm-controller by skywyze
 
 **Risk:** 100% ██████████ | **Downloads:** 909
 
@@ -2430,7 +2447,7 @@
 
 ---
 
-### 153. 🚨 nofx by tinkle-community
+### 154. 🚨 nofx by tinkle-community
 
 **Risk:** 100% ██████████ | **Downloads:** 901
 
@@ -2447,7 +2464,7 @@
 
 ---
 
-### 154. 🚨 kaggle by shepsci
+### 155. 🚨 kaggle by shepsci
 
 **Risk:** 93% █████████░ | **Downloads:** 886
 
@@ -2462,7 +2479,7 @@
 
 ---
 
-### 155. 🚨 molt-board-art by sho0bz
+### 156. 🚨 molt-board-art by sho0bz
 
 **Risk:** 100% ██████████ | **Downloads:** 878
 
@@ -2477,7 +2494,7 @@
 
 ---
 
-### 156. 🚨 near-dca by shaiss
+### 157. 🚨 near-dca by shaiss
 
 **Risk:** 80% ████████░░ | **Downloads:** 877
 
@@ -2491,7 +2508,7 @@
 
 ---
 
-### 157. 🚨 opencode-acp-control-2 by studio-hakke
+### 158. 🚨 opencode-acp-control-2 by studio-hakke
 
 **Risk:** 80% ████████░░ | **Downloads:** 874
 
@@ -2502,21 +2519,6 @@
 - `[HIGH]` Dynamic Code Evaluation
 
 [Full report →](https://clawsec.cc/skill/opencode-acp-control-2)
-
----
-
-### 158. 🚨 bank-skills by singularityhacker
-
-**Risk:** 100% ██████████ | **Downloads:** 860
-
-> LLM analysis failed: proxy returned no response
-
-**Threats detected:**
-- `[HIGH]` Dynamic Code Evaluation
-- `[HIGH]` Outbound Data Transfer
-- `[CRITICAL]` Private Key Extraction
-
-[Full report →](https://clawsec.cc/skill/bank-skills)
 
 ---
 
@@ -2535,7 +2537,22 @@
 
 ---
 
-### 160. 🚨 openclaw-social-post by teeclaw
+### 160. 🚨 bank-skills by singularityhacker
+
+**Risk:** 100% ██████████ | **Downloads:** 860
+
+> LLM analysis failed: proxy returned no response
+
+**Threats detected:**
+- `[HIGH]` Dynamic Code Evaluation
+- `[HIGH]` Outbound Data Transfer
+- `[CRITICAL]` Private Key Extraction
+
+[Full report →](https://clawsec.cc/skill/bank-skills)
+
+---
+
+### 161. 🚨 openclaw-social-post by teeclaw
 
 **Risk:** 100% ██████████ | **Downloads:** 857
 
@@ -2550,7 +2567,7 @@
 
 ---
 
-### 161. 🚨 clawlaunch by smokealot420
+### 162. 🚨 clawlaunch by smokealot420
 
 **Risk:** 100% ██████████ | **Downloads:** 852
 
@@ -2566,7 +2583,7 @@
 
 ---
 
-### 162. 🚨 arxiv-skill-learning by wanng-ide
+### 163. 🚨 arxiv-skill-learning by wanng-ide
 
 **Risk:** 78% ████████░░ | **Downloads:** 843
 
@@ -2582,7 +2599,7 @@
 
 ---
 
-### 163. 🚨 bybit-futures by sunnyztj
+### 164. 🚨 bybit-futures by sunnyztj
 
 **Risk:** 80% ████████░░ | **Downloads:** 833
 
@@ -2597,7 +2614,7 @@
 
 ---
 
-### 164. 🚨 ops-hygiene by staybased
+### 165. 🚨 ops-hygiene by staybased
 
 **Risk:** 100% ██████████ | **Downloads:** 827
 
@@ -2612,7 +2629,7 @@
 
 ---
 
-### 165. 🚨 openclaw-flowise-skill by tianmu
+### 166. 🚨 openclaw-flowise-skill by tianmu
 
 **Risk:** 100% ██████████ | **Downloads:** 826
 
@@ -2627,7 +2644,7 @@
 
 ---
 
-### 166. 🚨 chinese-toolkit by utopia013-droid
+### 167. 🚨 chinese-toolkit by utopia013-droid
 
 **Risk:** 80% ████████░░ | **Downloads:** 813
 
@@ -2642,7 +2659,7 @@
 
 ---
 
-### 167. 🚨 telnyx-network by teamtelnyx
+### 168. 🚨 telnyx-network by teamtelnyx
 
 **Risk:** 100% ██████████ | **Downloads:** 804
 
@@ -2658,7 +2675,7 @@
 
 ---
 
-### 168. 🚨 clawearn by stonega
+### 169. 🚨 clawearn by stonega
 
 **Risk:** 100% ██████████ | **Downloads:** 793
 
@@ -2674,7 +2691,7 @@
 
 ---
 
-### 169. 🚨 openclaw-policy-check by spbavarva
+### 170. 🚨 openclaw-policy-check by spbavarva
 
 **Risk:** 80% ████████░░ | **Downloads:** 778
 
@@ -2689,7 +2706,7 @@
 
 ---
 
-### 170. 🚨 auto-skill-hunter by wanng-ide
+### 171. 🚨 auto-skill-hunter by wanng-ide
 
 **Risk:** 85% ████████░░ | **Downloads:** 767
 
@@ -2706,7 +2723,7 @@
 
 ---
 
-### 171. 🚨 multi-channel-engagement-agent by story91
+### 172. 🚨 multi-channel-engagement-agent by story91
 
 **Risk:** 100% ██████████ | **Downloads:** 751
 
@@ -2722,7 +2739,7 @@
 
 ---
 
-### 172. 🚨 tencentcloud-asr by stardusten
+### 173. 🚨 tencentcloud-asr by stardusten
 
 **Risk:** 100% ██████████ | **Downloads:** 718
 
@@ -2738,7 +2755,7 @@
 
 ---
 
-### 173. 🚨 solana-payments-wallets-trading by solanaguide
+### 174. 🚨 solana-payments-wallets-trading by solanaguide
 
 **Risk:** 100% ██████████ | **Downloads:** 709
 
@@ -2754,7 +2771,7 @@
 
 ---
 
-### 174. 🚨 token-vesting by sneg55
+### 175. 🚨 token-vesting by sneg55
 
 **Risk:** 80% ████████░░ | **Downloads:** 707
 
@@ -2768,7 +2785,7 @@
 
 ---
 
-### 175. 🚨 arc-skill-scanner by trypto1019
+### 176. 🚨 arc-skill-scanner by trypto1019
 
 **Risk:** 100% ██████████ | **Downloads:** 677
 
@@ -2784,7 +2801,7 @@
 
 ---
 
-### 176. 🚨 openexec-skill by trendinghot
+### 177. 🚨 openexec-skill by trendinghot
 
 **Risk:** 100% ██████████ | **Downloads:** 672
 
@@ -2800,7 +2817,7 @@
 
 ---
 
-### 177. 🚨 reefgram by void-oracle
+### 178. 🚨 reefgram by void-oracle
 
 **Risk:** 89% █████████░ | **Downloads:** 667
 
@@ -2817,7 +2834,7 @@
 
 ---
 
-### 178. 🚨 sports-betting by skinnynoizze
+### 179. 🚨 sports-betting by skinnynoizze
 
 **Risk:** 100% ██████████ | **Downloads:** 665
 
@@ -2832,7 +2849,7 @@
 
 ---
 
-### 179. 🚨 smithnode by smithnodebyte
+### 180. 🚨 smithnode by smithnodebyte
 
 **Risk:** 100% ██████████ | **Downloads:** 660
 
@@ -2849,7 +2866,7 @@
 
 ---
 
-### 180. 🚨 arc-skill-differ by trypto1019
+### 181. 🚨 arc-skill-differ by trypto1019
 
 **Risk:** 80% ████████░░ | **Downloads:** 657
 
@@ -2864,7 +2881,7 @@
 
 ---
 
-### 181. 🚨 signalradar by vahnxu
+### 182. 🚨 signalradar by vahnxu
 
 **Risk:** 100% ██████████ | **Downloads:** 644
 
@@ -2880,7 +2897,7 @@
 
 ---
 
-### 182. 🚨 etf-assistant-1-0-1 by squally2k
+### 183. 🚨 etf-assistant-1-0-1 by squally2k
 
 **Risk:** 93% █████████░ | **Downloads:** 641
 
@@ -2894,7 +2911,7 @@
 
 ---
 
-### 183. 🚨 agent-orchestrator-molter by variable190
+### 184. 🚨 agent-orchestrator-molter by variable190
 
 **Risk:** 100% ██████████ | **Downloads:** 626
 
@@ -2909,7 +2926,7 @@
 
 ---
 
-### 184. 🚨 trading-signals-ws by sunnyztj
+### 185. 🚨 trading-signals-ws by sunnyztj
 
 **Risk:** 80% ████████░░ | **Downloads:** 612
 
@@ -2924,7 +2941,7 @@
 
 ---
 
-### 185. 🚨 youtube-summary by sunghyo
+### 186. 🚨 youtube-summary by sunghyo
 
 **Risk:** 93% █████████░ | **Downloads:** 601
 
@@ -2938,7 +2955,7 @@
 
 ---
 
-### 186. 🚨 deck0-skills by signorcrypto
+### 187. 🚨 deck0-skills by signorcrypto
 
 **Risk:** 100% ██████████ | **Downloads:** 597
 
@@ -2953,7 +2970,7 @@
 
 ---
 
-### 187. 🚨 memory-mesh-core by wanng-ide
+### 188. 🚨 memory-mesh-core by wanng-ide
 
 **Risk:** 87% █████████░ | **Downloads:** 583
 
@@ -2970,7 +2987,7 @@
 
 ---
 
-### 188. 🚨 posthog by simonfunk
+### 189. 🚨 posthog by simonfunk
 
 **Risk:** 100% ██████████ | **Downloads:** 581
 
@@ -2985,7 +3002,7 @@
 
 ---
 
-### 189. 🚨 perp-lobster by thisnewmark
+### 190. 🚨 perp-lobster by thisnewmark
 
 **Risk:** 80% ████████░░ | **Downloads:** 580
 
@@ -2999,7 +3016,7 @@
 
 ---
 
-### 190. 🚨 eastmoney-tools by torchesfrms
+### 191. 🚨 eastmoney-tools by torchesfrms
 
 **Risk:** 100% ██████████ | **Downloads:** 579
 
@@ -3014,7 +3031,7 @@
 
 ---
 
-### 191. 🚨 clawcontract by sufnoobzac
+### 192. 🚨 clawcontract by sufnoobzac
 
 **Risk:** 80% ████████░░ | **Downloads:** 574
 
@@ -3028,7 +3045,7 @@
 
 ---
 
-### 192. 🚨 ai-video-editor by symbolk
+### 193. 🚨 ai-video-editor by symbolk
 
 **Risk:** 100% ██████████ | **Downloads:** 570
 
@@ -3043,7 +3060,7 @@
 
 ---
 
-### 193. 🚨 clawmarket by sharbelayy
+### 194. 🚨 clawmarket by sharbelayy
 
 **Risk:** 100% ██████████ | **Downloads:** 566
 
@@ -3058,7 +3075,7 @@
 
 ---
 
-### 194. 🚨 skill-security-scanner by steffano198
+### 195. 🚨 skill-security-scanner by steffano198
 
 **Risk:** 100% ██████████ | **Downloads:** 560
 
@@ -3074,7 +3091,7 @@
 
 ---
 
-### 195. 🚨 prism-finance-os by strykragent
+### 196. 🚨 prism-finance-os by strykragent
 
 **Risk:** 74% ███████░░░ | **Downloads:** 551
 
@@ -3091,7 +3108,7 @@
 
 ---
 
-### 196. 🚨 pi by tag-assistant
+### 197. 🚨 pi by tag-assistant
 
 **Risk:** 88% █████████░ | **Downloads:** 550
 
@@ -3108,7 +3125,7 @@
 
 ---
 
-### 197. 🚨 ask-agents by teamolab
+### 198. 🚨 ask-agents by teamolab
 
 **Risk:** 89% █████████░ | **Downloads:** 542
 
@@ -3125,7 +3142,7 @@
 
 ---
 
-### 198. 🚨 xiaoai-bridge by warm-winter
+### 199. 🚨 xiaoai-bridge by warm-winter
 
 **Risk:** 80% ████████░░ | **Downloads:** 538
 
@@ -3142,7 +3159,7 @@
 
 ---
 
-### 199. 🚨 agent-telegram by shangchuanqiytu-ui
+### 200. 🚨 agent-telegram by shangchuanqiytu-ui
 
 **Risk:** 82% ████████░░ | **Downloads:** 527
 
@@ -3159,7 +3176,7 @@
 
 ---
 
-### 200. 🚨 depguard by suhteevah
+### 201. 🚨 depguard by suhteevah
 
 **Risk:** 76% ████████░░ | **Downloads:** 525
 
@@ -3176,7 +3193,7 @@
 
 ---
 
-### 201. 🚨 ai-ceo-automation by sendwealth
+### 202. 🚨 ai-ceo-automation by sendwealth
 
 **Risk:** 94% █████████░ | **Downloads:** 524
 
@@ -3193,7 +3210,7 @@
 
 ---
 
-### 202. 🚨 crypto-portfolio-tracker-api by strykragent
+### 203. 🚨 crypto-portfolio-tracker-api by strykragent
 
 **Risk:** 74% ███████░░░ | **Downloads:** 523
 
@@ -3208,7 +3225,7 @@
 
 ---
 
-### 203. 🚨 ai-hunter-pro by traprapitalianazional-dev
+### 204. 🚨 ai-hunter-pro by traprapitalianazional-dev
 
 **Risk:** 85% ████████░░ | **Downloads:** 518
 
@@ -3225,7 +3242,7 @@
 
 ---
 
-### 204. 🚨 openclaw-plus by shindo957-official
+### 205. 🚨 openclaw-plus by shindo957-official
 
 **Risk:** 74% ███████░░░ | **Downloads:** 517
 
@@ -3242,7 +3259,7 @@
 
 ---
 
-### 205. 🚨 vdoob by silbosu
+### 206. 🚨 vdoob by silbosu
 
 **Risk:** 72% ███████░░░ | **Downloads:** 511
 
@@ -3259,7 +3276,7 @@
 
 ---
 
-### 206. 🚨 glowskin-promo by underbench2-gif
+### 207. 🚨 glowskin-promo by underbench2-gif
 
 **Risk:** 72% ███████░░░ | **Downloads:** 506
 
@@ -3276,7 +3293,7 @@
 
 ---
 
-### 207. 🚨 agenttok by tonydream1
+### 208. 🚨 agenttok by tonydream1
 
 **Risk:** 92% █████████░ | **Downloads:** 500
 
@@ -3293,7 +3310,7 @@
 
 ---
 
-### 208. 🚨 summarizerx64 by speechybubble
+### 209. 🚨 summarizerx64 by speechybubble
 
 **Risk:** 72% ███████░░░ | **Downloads:** 499
 
@@ -3310,7 +3327,7 @@
 
 ---
 
-### 209. 🚨 ezcto-smart-web-reader by takahashigy
+### 210. 🚨 ezcto-smart-web-reader by takahashigy
 
 **Risk:** 85% ████████░░ | **Downloads:** 493
 
@@ -3327,7 +3344,7 @@
 
 ---
 
-### 210. 🚨 goalgetter by steffano198
+### 211. 🚨 goalgetter by steffano198
 
 **Risk:** 85% ████████░░ | **Downloads:** 487
 
@@ -3344,7 +3361,7 @@
 
 ---
 
-### 211. 🚨 planetexpress-marketplace by timowhite88
+### 212. 🚨 planetexpress-marketplace by timowhite88
 
 **Risk:** 74% ███████░░░ | **Downloads:** 487
 
@@ -3361,7 +3378,7 @@
 
 ---
 
-### 212. 🚨 subfeed by subfeed-ai
+### 213. 🚨 subfeed by subfeed-ai
 
 **Risk:** 87% █████████░ | **Downloads:** 484
 
@@ -3378,7 +3395,7 @@
 
 ---
 
-### 213. 🚨 anvevoice by anveai
+### 214. 🚨 anvevoice by anveai
 
 **Risk:** 75% ████████░░ | **Downloads:** 458
 
@@ -3395,7 +3412,7 @@
 
 ---
 
-### 214. 🚨 russian-uncensored by voronindenis5
+### 215. 🚨 russian-uncensored by voronindenis5
 
 **Risk:** 68% ███████░░░ | **Downloads:** 448
 
@@ -3410,7 +3427,7 @@
 
 ---
 
-### 215. 🚨 document-parser by ankylala
+### 216. 🚨 document-parser by ankylala
 
 **Risk:** 72% ███████░░░ | **Downloads:** 444
 
@@ -3427,7 +3444,7 @@
 
 ---
 
-### 216. 🚨 amazon-to-shopify-sync by walynlee
+### 217. 🚨 amazon-to-shopify-sync by walynlee
 
 **Risk:** 93% █████████░ | **Downloads:** 289
 
@@ -3444,7 +3461,7 @@
 
 ---
 
-### 217. 🚨 safespace-rater by vpn2004
+### 218. 🚨 safespace-rater by vpn2004
 
 **Risk:** 82% ████████░░ | **Downloads:** 264
 
@@ -3461,7 +3478,7 @@
 
 ---
 
-### 218. 🚨 vibe-harvester by anotherj1
+### 219. 🚨 vibe-harvester by anotherj1
 
 **Risk:** 78% ████████░░ | **Downloads:** 249
 
@@ -3478,7 +3495,7 @@
 
 ---
 
-### 219. 🚨 verdictswarm by vswarm-ai
+### 220. 🚨 verdictswarm by vswarm-ai
 
 **Risk:** 80% ████████░░ | **Downloads:** 223
 
@@ -3495,7 +3512,7 @@
 
 ---
 
-### 220. 🚨 token-profiler by vswarm-ai
+### 221. 🚨 token-profiler by vswarm-ai
 
 **Risk:** 71% ███████░░░ | **Downloads:** 220
 
@@ -3512,7 +3529,7 @@
 
 ---
 
-### 221. 🚨 reddit-voc-lobster-pro by walynlee
+### 222. 🚨 reddit-voc-lobster-pro by walynlee
 
 **Risk:** 94% █████████░ | **Downloads:** 203
 
@@ -3529,7 +3546,7 @@
 
 ---
 
-### 222. 🚨 feishu-group-ops by vinzeny
+### 223. 🚨 feishu-group-ops by vinzeny
 
 **Risk:** 80% ████████░░ | **Downloads:** 169
 
@@ -3546,7 +3563,7 @@
 
 ---
 
-### 223. 🚨 agentconnex-register by anshkohli88
+### 224. 🚨 agentconnex-register by anshkohli88
 
 **Risk:** 85% ████████░░ | **Downloads:** 153
 
@@ -3563,7 +3580,7 @@
 
 ---
 
-### 224. 🚨 ai-receptionist by antimoron
+### 225. 🚨 ai-receptionist by antimoron
 
 **Risk:** 72% ███████░░░ | **Downloads:** 141
 
@@ -3580,7 +3597,7 @@
 
 ---
 
-### 225. 🚨 dygod-movies by anlinxi
+### 226. 🚨 dygod-movies by anlinxi
 
 **Risk:** 78% ████████░░ | **Downloads:** 51
 
@@ -3597,7 +3614,7 @@
 
 ---
 
-### 226. 🚨 x-twitter by annettemekuro30
+### 227. 🚨 x-twitter by annettemekuro30
 
 **Risk:** 82% ████████░░ | **Downloads:** 0
 
@@ -3613,7 +3630,7 @@
 
 ---
 
-### 227. 🚨 github-to-clawhub by antonia-sz
+### 228. 🚨 github-to-clawhub by antonia-sz
 
 **Risk:** 71% ███████░░░ | **Downloads:** 0
 
@@ -3630,7 +3647,7 @@
 
 ---
 
-### 228. 🚨 jd-interview-prep by antonia-sz
+### 229. 🚨 jd-interview-prep by antonia-sz
 
 **Risk:** 66% ███████░░░ | **Downloads:** 0
 
@@ -3650,16 +3667,16 @@
 
 | Threat | Count |
 |--------|-------|
-| LLM Semantic Detection | 918 |
-| Startup Failure (non-executable) | 228 |
-| Dynamic Code Evaluation | 223 |
-| Outbound Data Transfer | 139 |
-| Hidden Command Execution | 76 |
-| Private Key Extraction | 69 |
+| LLM Semantic Detection | 930 |
+| Startup Failure (non-executable) | 229 |
+| Dynamic Code Evaluation | 224 |
+| Outbound Data Transfer | 140 |
+| Hidden Command Execution | 77 |
+| Private Key Extraction | 70 |
 | Environment Variable Exfiltration | 59 |
 | Remote Script Execution | 27 |
-| Base64 Encoded Payload | 21 |
-| Cryptocurrency Wallet Access | 17 |
+| Base64 Encoded Payload | 22 |
+| Cryptocurrency Wallet Access | 18 |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc) | `npx clawsearch-guard <skill>`*
