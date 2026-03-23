@@ -2,14 +2,14 @@
 
 > Date: 2026-03-23 | Source: [ClawSearch](https://clawsearch.cc/authors) | Audited by [ClawSec](https://clawsec.cc)
 
-**33156** skills indexed, **1949** audited. Found **228** malicious, **1166** suspicious.
+**33156** skills indexed, **1962** audited. Found **229** malicious, **1171** suspicious.
 
 | Rank | Author | Score | Level | Skills | Safe | Mal. | Downloads |
 |------|--------|-------|-------|--------|------|------|-----------|
 | 1 | [steipete](https://clawsearch.cc/author/steipete) | 0.89 | trusted | 54 | 36 | 0 | 1,596,812 |
 | 2 | [mrgoodb](https://clawsearch.cc/author/mrgoodb) | 0.88 | trusted | 15 | 13 | 0 | 165,696 |
 | 3 | [ivangdavila](https://clawsearch.cc/author/ivangdavila) | 0.87 | trusted | 13 | 11 | 0 | 167,513 |
-| 4 | [kowl64](https://clawsearch.cc/author/kowl64) | 0.85 | trusted | 5 | 5 | 0 | 33,862 |
+| 4 | [kowl64](https://clawsearch.cc/author/kowl64) | 0.86 | trusted | 6 | 6 | 0 | 36,080 |
 | 5 | [wangyendt](https://clawsearch.cc/author/wangyendt) | 0.83 | trusted | 30 | 26 | 0 | 13,581 |
 | 6 | [mikecourt](https://clawsearch.cc/author/mikecourt) | 0.82 | trusted | 4 | 4 | 0 | 10,778 |
 | 7 | [peterokase42](https://clawsearch.cc/author/peterokase42) | 0.81 | trusted | 2 | 2 | 0 | 10,107 |
@@ -18,18 +18,18 @@
 | 10 | [tmchow](https://clawsearch.cc/author/tmchow) | 0.80 | trusted | 2 | 2 | 0 | 6,899 |
 | 11 | [msarheed](https://clawsearch.cc/author/msarheed) | 0.79 | established | 2 | 2 | 0 | 6,080 |
 | 12 | [virtaava](https://clawsearch.cc/author/virtaava) | 0.79 | established | 2 | 2 | 0 | 4,552 |
-| 13 | [kesslerio](https://clawsearch.cc/author/kesslerio) | 0.76 | established | 12 | 7 | 0 | 62,091 |
-| 14 | [matrixy](https://clawsearch.cc/author/matrixy) | 0.75 | established | 3 | 2 | 0 | 44,161 |
+| 13 | [mjrussell](https://clawsearch.cc/author/mjrussell) | 0.77 | established | 4 | 3 | 0 | 22,679 |
+| 14 | [kesslerio](https://clawsearch.cc/author/kesslerio) | 0.75 | established | 13 | 7 | 0 | 64,326 |
 | 15 | [shashwatgtm](https://clawsearch.cc/author/shashwatgtm) | 0.75 | established | 4 | 3 | 0 | 12,252 |
 | 16 | [veeramanikandanr48](https://clawsearch.cc/author/veeramanikandanr48) | 0.74 | established | 53 | 22 | 3 | 160,473 |
 | 17 | [spclaudehome](https://clawsearch.cc/author/spclaudehome) | 0.73 | established | 2 | 1 | 0 | 138,258 |
 | 18 | [ide-rea](https://clawsearch.cc/author/ide-rea) | 0.73 | established | 4 | 2 | 0 | 92,468 |
-| 19 | [mjrussell](https://clawsearch.cc/author/mjrussell) | 0.73 | established | 3 | 2 | 0 | 20,431 |
+| 19 | [odrobnik](https://clawsearch.cc/author/odrobnik) | 0.73 | established | 9 | 5 | 0 | 28,322 |
 | 20 | [tomstools11](https://clawsearch.cc/author/tomstools11) | 0.72 | established | 7 | 4 | 0 | 27,775 |
 | 21 | [plgonzalezrx8](https://clawsearch.cc/author/plgonzalezrx8) | 0.72 | established | 3 | 2 | 0 | 11,213 |
 | 22 | [pors](https://clawsearch.cc/author/pors) | 0.72 | established | 3 | 2 | 0 | 9,987 |
 | 23 | [thesethrose](https://clawsearch.cc/author/thesethrose) | 0.71 | established | 19 | 6 | 1 | 235,490 |
-| 24 | [odrobnik](https://clawsearch.cc/author/odrobnik) | 0.71 | established | 8 | 4 | 0 | 26,110 |
+| 24 | [matrixy](https://clawsearch.cc/author/matrixy) | 0.71 | established | 4 | 2 | 0 | 46,376 |
 | 25 | [wangzhiming1999](https://clawsearch.cc/author/wangzhiming1999) | 0.71 | established | 13 | 8 | 0 | 4,551 |
 | 26 | [nextfrontierbuilds](https://clawsearch.cc/author/nextfrontierbuilds) | 0.69 | established | 8 | 3 | 0 | 61,874 |
 | 27 | [lstpsche](https://clawsearch.cc/author/lstpsche) | 0.69 | established | 4 | 2 | 0 | 25,159 |
