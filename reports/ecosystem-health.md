@@ -2,22 +2,22 @@
 
 > Date: 2026-03-27 | Audited by [ClawSec](https://clawsec.cc)
 
-## Health Score: 5/100
+## Health Score: 33/100
 
 | Metric | Value |
 |--------|-------|
-| Total Audited | 2,084 |
-| Safe | 602 (28.9%) |
-| Suspicious | 1,229 (59.0%) |
-| Malicious | 247 (11.9%) |
-| Health Score | 5/100 |
+| Total Audited | 1,197 |
+| Safe | 544 (45.4%) |
+| Suspicious | 574 (48.0%) |
+| Malicious | 74 (6.2%) |
+| Health Score | 33/100 |
 
 ## Risk Distribution
 
 ```
-Safe         ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 28.9%
-Suspicious   ████████████████████████░░░░░░░░░░░░░░░░ 59.0%
-Malicious    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.9%
+Safe         ██████████████████░░░░░░░░░░░░░░░░░░░░░░ 45.4%
+Suspicious   ███████████████████░░░░░░░░░░░░░░░░░░░░░ 48.0%
+Malicious    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6.2%
 ```
 
 ## High-Risk Authors
@@ -26,16 +26,16 @@ Authors with malicious skills detected:
 
 | Author | Malicious | Safe | Profile |
 |--------|-----------|------|---------|
-| tezatezaz | 5 | 0 | [view](https://clawsearch.cc/author/tezatezaz) |
-| tedkaczynski-the-bot | 4 | 0 | [view](https://clawsearch.cc/author/tedkaczynski-the-bot) |
-| shawnminh | 4 | 0 | [view](https://clawsearch.cc/author/shawnminh) |
-| nitishgargiitd | 4 | 0 | [view](https://clawsearch.cc/author/nitishgargiitd) |
-| veeramanikandanr48 | 3 | 0 | [view](https://clawsearch.cc/author/veeramanikandanr48) |
-| wanng-ide | 3 | 0 | [view](https://clawsearch.cc/author/wanng-ide) |
 | michael-laffin | 3 | 0 | [view](https://clawsearch.cc/author/michael-laffin) |
-| tzannetosgiannis | 3 | 0 | [view](https://clawsearch.cc/author/tzannetosgiannis) |
-| luruibu | 2 | 0 | [view](https://clawsearch.cc/author/luruibu) |
-| thomaslwang | 2 | 0 | [view](https://clawsearch.cc/author/thomaslwang) |
+| wanng-ide | 3 | 0 | [view](https://clawsearch.cc/author/wanng-ide) |
+| walynlee | 2 | 0 | [view](https://clawsearch.cc/author/walynlee) |
+| antonia-sz | 2 | 0 | [view](https://clawsearch.cc/author/antonia-sz) |
+| portisclawbot | 1 | 0 | [view](https://clawsearch.cc/author/portisclawbot) |
+| shangchuanqiytu-ui | 1 | 0 | [view](https://clawsearch.cc/author/shangchuanqiytu-ui) |
+| antimoron | 1 | 0 | [view](https://clawsearch.cc/author/antimoron) |
+| takahashigy | 1 | 0 | [view](https://clawsearch.cc/author/takahashigy) |
+| lhanyun | 1 | 0 | [view](https://clawsearch.cc/author/lhanyun) |
+| saireetikap | 1 | 0 | [view](https://clawsearch.cc/author/saireetikap) |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc) | `npx clawsearch-guard <skill>`*
