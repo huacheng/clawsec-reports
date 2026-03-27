@@ -2,7 +2,7 @@
 
 > Date: 2026-03-27 | Audited by [ClawSec](https://clawsec.cc)
 
-**247** malicious skills detected out of **2079** audited.
+**247** malicious skills detected out of **2084** audited.
 
 ### 1. 🚨 humanize-ai-text by moltbro
 
