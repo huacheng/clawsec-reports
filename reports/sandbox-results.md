@@ -12,25 +12,25 @@
 | Skill | Verdict | Risk | Files Written |
 |-------|---------|------|---------------|
 
-## Startup Failures (2084 skills crashed)
+## Startup Failures (1197 skills crashed)
 
 | Skill | Verdict | Exit Code |
 |-------|---------|-----------|
-| [sjht-cam-anno](https://clawsec.cc/skill/sjht-cam-anno) | SAFE | 1 |
-| [long-running-harness](https://clawsec.cc/skill/long-running-harness) | SAFE | 1 |
+| [weekly-synthesis](https://clawsec.cc/skill/weekly-synthesis) | SAFE | 1 |
+| [youdotcom-cli](https://clawsec.cc/skill/youdotcom-cli) | SAFE | 1 |
 | [sjht-data-annotation](https://clawsec.cc/skill/sjht-data-annotation) | SUSPICIOUS | 1 |
-| [web-researcher](https://clawsec.cc/skill/web-researcher) | SAFE | 1 |
+| [linkedin-lead-generation](https://clawsec.cc/skill/linkedin-lead-generation) | SUSPICIOUS | 1 |
+| [section11](https://clawsec.cc/skill/section11) | SUSPICIOUS | 1 |
 | [qq-email-ai](https://clawsec.cc/skill/qq-email-ai) | SUSPICIOUS | 1 |
-| [qiniu-kodo](https://clawsec.cc/skill/qiniu-kodo) | SUSPICIOUS | 1 |
-| [openclaw-sync](https://clawsec.cc/skill/openclaw-sync) | SUSPICIOUS | 1 |
+| [skillzmarket](https://clawsec.cc/skill/skillzmarket) | MALICIOUS | 1 |
+| [github-kb](https://clawsec.cc/skill/github-kb) | SUSPICIOUS | 1 |
+| [todoist-natural-language](https://clawsec.cc/skill/todoist-natural-language) | SAFE | 1 |
 | [lme-auto-messenger](https://clawsec.cc/skill/lme-auto-messenger) | SUSPICIOUS | 1 |
 | [aliyun-oss-skill](https://clawsec.cc/skill/aliyun-oss-skill) | SUSPICIOUS | 1 |
-| [akshare-zh](https://clawsec.cc/skill/akshare-zh) | SAFE | 1 |
 | [pingcode-skills](https://clawsec.cc/skill/pingcode-skills) | SUSPICIOUS | 1 |
 | [claw-clone](https://clawsec.cc/skill/claw-clone) | SUSPICIOUS | 1 |
-| [website-change-watcher](https://clawsec.cc/skill/website-change-watcher) | SAFE | 1 |
-| [anvevoice](https://clawsec.cc/skill/anvevoice) | MALICIOUS | 1 |
-| [upi-payment-ux-ops](https://clawsec.cc/skill/upi-payment-ux-ops) | SAFE | 1 |
+| [qiniu-kodo](https://clawsec.cc/skill/qiniu-kodo) | SUSPICIOUS | 1 |
+| [freeride-ai](https://clawsec.cc/skill/freeride-ai) | SUSPICIOUS | 1 |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc)*
