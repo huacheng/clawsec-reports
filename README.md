@@ -68,3 +68,4 @@ npx clawsearch @steipete
 - [Suspicious Skills](reports/2026-03-22-suspicious-skills-watchlist.md)
 - [Threat Landscape](reports/2026-03-22-threat-landscape.md)
 - [Rising Authors](reports/2026-03-22-rising-authors.md)
+- [2026-03-27 daily-summary](reports/2026-03-27-daily-summary.md)
