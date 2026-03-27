@@ -5,26 +5,26 @@
 | Metric | Value |
 |--------|-------|
 | Skills Indexed | 41,805 |
-| Audited | 2,084 (5.0%) |
-| Safe | 602 (28.9%) |
-| Suspicious | 1,229 |
-| Malicious | 247 (11.9%) |
-| Knowledge Graph | 18,424 relations |
-| Search Tags | 2,065 indexed |
+| Audited | 1,197 (2.9%) |
+| Safe | 544 (45.4%) |
+| Suspicious | 574 |
+| Malicious | 74 (6.2%) |
+| Knowledge Graph | 30,737 relations |
+| Search Tags | 1,189 indexed |
 
 ## Most Popular Skills
 
 1. **self-improving-agent** — 284,104 downloads (SAFE)
 2. **summarize** — 193,478 downloads (SAFE)
-3. **skill-vetter** — 136,628 downloads (SAFE)
+3. **ontology** — 125,502 downloads (SUSPICIOUS)
 
 ## Latest Malicious Findings
 
-- [wed-1-0-1](https://clawsec.cc/skill/wed-1-0-1) by gvillanueva84 (risk: 92%)
-- [agentic-commerce](https://clawsec.cc/skill/agentic-commerce) by purch-agent (risk: 88%)
-- [google-messages-openclaw-skill](https://clawsec.cc/skill/google-messages-openclaw-skill) by kesslerio (risk: 82%)
-- [liminal](https://clawsec.cc/skill/liminal) by luruibu (risk: 95%)
-- [rent-a-person-ai](https://clawsec.cc/skill/rent-a-person-ai) by saireetikap (risk: 88%)
+- [clankdin](https://clawsec.cc/skill/clankdin) by redeemthedream (risk: 89%)
+- [autonomous-agent](https://clawsec.cc/skill/autonomous-agent) by josephrp (risk: 88%)
+- [job-auto-apply](https://clawsec.cc/skill/job-auto-apply) by veeky-kumar (risk: 76%)
+- [vap-media](https://clawsec.cc/skill/vap-media) by elestirelbilinc-sketch (risk: 82%)
+- [moltbook-registry](https://clawsec.cc/skill/moltbook-registry) by drjmz (risk: 91%)
 
 ## Links
 
