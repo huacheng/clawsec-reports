@@ -7,25 +7,25 @@
 | Metric | Count |
 |--------|-------|
 | Total Skills | 41,805 |
-| Audited | 2,084 |
-| Coverage | 5.0% |
-| Safe | 602 |
-| Suspicious | 1,229 |
-| Malicious | 247 |
+| Audited | 1,197 |
+| Coverage | 2.9% |
+| Safe | 544 |
+| Suspicious | 574 |
+| Malicious | 74 |
 
 ## By Status
 
 | Status | Count | % |
 |--------|-------|---|
-| pending | 38,664 | 92.5% |
-| audited | 2,063 | 4.9% |
+| pending | 39,518 | 94.5% |
+| audited | 1,209 | 2.9% |
 | metadata_only | 1,078 | 2.6% |
 
 ## By Source
 
 | Source | Total | Audited | Coverage |
 |--------|-------|---------|----------|
-| clawhub | 40,910 | 2,063 | 5.0% |
+| clawhub | 40,910 | 1,209 | 3.0% |
 | github | 895 | 0 | 0.0% |
 
 ---
