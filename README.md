@@ -81,3 +81,4 @@ npx clawsearch @steipete
 - [2026-03-27 fastest-growing-skills](reports/2026-03-27-fastest-growing-skills.md)
 - [2026-03-27 threat-deep-dive](reports/2026-03-27-threat-deep-dive.md)
 - [2026-03-27 audit-coverage](reports/2026-03-27-audit-coverage.md)
+- [2026-03-27 ecosystem-health](reports/2026-03-27-ecosystem-health.md)
