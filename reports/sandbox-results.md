@@ -12,7 +12,7 @@
 | Skill | Verdict | Risk | Files Written |
 |-------|---------|------|---------------|
 
-## Startup Failures (2079 skills crashed)
+## Startup Failures (2084 skills crashed)
 
 | Skill | Verdict | Exit Code |
 |-------|---------|-----------|
