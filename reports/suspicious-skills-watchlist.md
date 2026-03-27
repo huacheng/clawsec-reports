@@ -36,7 +36,7 @@ but flagged for risky behavior patterns.
 | 27 | ⚠️ [agent-autonomy-kit](https://clawsec.cc/skill/agent-autonomy-kit) | ryancampbell | 52% | 13,650 | Dynamic Code Evaluation |
 | 28 | ⚠️ [n8n](https://clawsec.cc/skill/n8n) | thomasansems | 45% | 13,003 | Dynamic Code Evaluation |
 | 29 | ⚠️ [gcalcli-calendar](https://clawsec.cc/skill/gcalcli-calendar) | lstpsche | 38% | 12,560 | Dynamic Code Evaluation |
-| 30 | ⚠️ [camsnap](https://clawsec.cc/skill/camsnap) | steipete | 35% | 11,082 | Dynamic Code Evaluation |
+| 30 | ⚠️ [cron-mastery](https://clawsec.cc/skill/cron-mastery) | i-mw | 42% | 11,995 | Dynamic Code Evaluation |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc) | `npx clawsearch-guard <skill>`*
