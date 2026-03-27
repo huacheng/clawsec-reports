@@ -2,16 +2,16 @@
 
 > Date: 2026-03-27 | Audited by [ClawSec](https://clawsec.cc)
 
-**2084** audited skills across **6** categories.
+**1197** audited skills across **6** categories.
 
 | Category | Count | Safe | Suspicious | Malicious | Avg Risk | Downloads |
 |----------|-------|------|------------|-----------|----------|-----------|
-| prompt_template | 777 | 231 | 433 | 111 | 40% | 2,101,281 |
-| tool | 622 | 134 | 430 | 57 | 41% | 2,208,225 |
-| hybrid | 404 | 78 | 263 | 62 | 47% | 1,415,405 |
-| documentation | 232 | 151 | 70 | 10 | 25% | 1,516,603 |
-| library | 24 | 6 | 17 | 1 | 40% | 207,945 |
-| mcp_server | 19 | 2 | 12 | 4 | 51% | 47,547 |
+| tool | 359 | 115 | 224 | 19 | 38% | 1,859,504 |
+| prompt_template | 329 | 232 | 79 | 16 | 22% | 1,200,218 |
+| hybrid | 301 | 59 | 207 | 34 | 44% | 1,310,798 |
+| documentation | 190 | 130 | 56 | 4 | 22% | 1,514,240 |
+| library | 14 | 6 | 7 | 1 | 38% | 182,612 |
+| mcp_server | 3 | 2 | 0 | 0 | 15% | 27,895 |
 
 ---
 *[ClawSec](https://clawsec.cc) | [ClawSearch](https://clawsearch.cc)*
