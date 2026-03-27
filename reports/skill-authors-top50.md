@@ -2,7 +2,7 @@
 
 > Date: 2026-03-27 | Source: [ClawSearch](https://clawsearch.cc/authors) | Audited by [ClawSec](https://clawsec.cc)
 
-**41805** skills indexed, **2079** audited. Found **247** malicious, **1225** suspicious.
+**41805** skills indexed, **2084** audited. Found **247** malicious, **1229** suspicious.
 
 | Rank | Author | Score | Level | Skills | Safe | Mal. | Downloads |
 |------|--------|-------|-------|--------|------|------|-----------|
