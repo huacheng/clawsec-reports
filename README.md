@@ -77,3 +77,4 @@ npx clawsearch @steipete
 - [2026-03-27 threat-landscape](reports/2026-03-27-threat-landscape.md)
 - [2026-03-27 rising-authors](reports/2026-03-27-rising-authors.md)
 - [2026-03-27 category-distribution](reports/2026-03-27-category-distribution.md)
+- [2026-03-27 new-skills-this-week](reports/2026-03-27-new-skills-this-week.md)
