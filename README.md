@@ -79,3 +79,4 @@ npx clawsearch @steipete
 - [2026-03-27 category-distribution](reports/2026-03-27-category-distribution.md)
 - [2026-03-27 new-skills-this-week](reports/2026-03-27-new-skills-this-week.md)
 - [2026-03-27 fastest-growing-skills](reports/2026-03-27-fastest-growing-skills.md)
+- [2026-03-27 threat-deep-dive](reports/2026-03-27-threat-deep-dive.md)
