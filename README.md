@@ -83,3 +83,4 @@ npx clawsearch @steipete
 - [2026-03-27 audit-coverage](reports/2026-03-27-audit-coverage.md)
 - [2026-03-27 ecosystem-health](reports/2026-03-27-ecosystem-health.md)
 - [2026-03-27 high-risk-authors](reports/2026-03-27-high-risk-authors.md)
+- [2026-03-27 sandbox-results](reports/2026-03-27-sandbox-results.md)
