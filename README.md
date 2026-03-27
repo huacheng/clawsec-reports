@@ -74,3 +74,4 @@ npx clawsearch @steipete
 - [2026-03-27 malicious-skills-exposed](reports/2026-03-27-malicious-skills-exposed.md)
 - [2026-03-27 safest-skills-recommended](reports/2026-03-27-safest-skills-recommended.md)
 - [2026-03-27 suspicious-skills-watchlist](reports/2026-03-27-suspicious-skills-watchlist.md)
+- [2026-03-27 threat-landscape](reports/2026-03-27-threat-landscape.md)
