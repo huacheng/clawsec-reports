@@ -21,9 +21,9 @@
 | [auto-updater](https://clawsearch.cc/skill/auto-updater) | maximeprades | 53,613 | SUSPICIOUS | 50% |
 | [openclaw-tavily-search](https://clawsearch.cc/skill/openclaw-tavily-search) | jacky1n7 | 52,760 | SAFE | 15% |
 | [automation-workflows](https://clawsearch.cc/skill/automation-workflows) | jk-0001 | 48,725 | SAFE | 8% |
-| [freeride-ai](https://clawsearch.cc/skill/freeride-ai) | shaivpidadi | 44,232 | SUSPICIOUS | 62% |
 | [free-ride](https://clawsearch.cc/skill/free-ride) | shaivpidadi | 44,232 | SUSPICIOUS | 42% |
 | [freeride](https://clawsearch.cc/skill/freeride) | shaivpidadi | 44,232 | SUSPICIOUS | 48% |
+| [freeride-ai](https://clawsearch.cc/skill/freeride-ai) | shaivpidadi | 44,232 | SUSPICIOUS | 62% |
 | [stock-analysis](https://clawsearch.cc/skill/stock-analysis) | udiedrichsen | 36,674 | PENDING | — |
 | [desktop-control](https://clawsearch.cc/skill/desktop-control) | matagul | 35,107 | SUSPICIOUS | 62% |
 | [youtube-watcher](https://clawsearch.cc/skill/youtube-watcher) | michaelgathara | 34,125 | SUSPICIOUS | 32% |
