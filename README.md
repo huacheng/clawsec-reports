@@ -70,3 +70,4 @@ npx clawsearch @steipete
 - [Rising Authors](reports/2026-03-22-rising-authors.md)
 - [2026-03-27 daily-summary](reports/2026-03-27-daily-summary.md)
 - [2026-03-27 skill-authors-top50](reports/2026-03-27-skill-authors-top50.md)
+- [2026-03-27 most-downloaded-skills](reports/2026-03-27-most-downloaded-skills.md)
