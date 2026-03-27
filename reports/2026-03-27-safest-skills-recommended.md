@@ -35,25 +35,25 @@ The 50 safest audited skills, ranked by lowest risk score.
 | 27 | ✅ [fitness-coach](https://clawsearch.cc/detail/fitness-coach) | vassiliylakhonin | 5% | 766 | prompt_template |
 | 28 | ✅ [ai-news-researcher](https://clawsearch.cc/detail/ai-news-researcher) | timbu306 | 5% | 761 | prompt_template |
 | 29 | ✅ [mobile-app-builder](https://clawsearch.cc/detail/mobile-app-builder) | stoplossking1 | 5% | 721 | prompt_template |
-| 30 | ✅ [agents-structured-memory](https://clawsearch.cc/detail/agents-structured-memory) | singhcoder | 5% | 715 | prompt_template |
-| 31 | ✅ [ub2-web-research-assistant](https://clawsearch.cc/detail/ub2-web-research-assistant) | underbench2-gif | 5% | 715 | prompt_template |
+| 30 | ✅ [ub2-web-research-assistant](https://clawsearch.cc/detail/ub2-web-research-assistant) | underbench2-gif | 5% | 715 | prompt_template |
+| 31 | ✅ [agents-structured-memory](https://clawsearch.cc/detail/agents-structured-memory) | singhcoder | 5% | 715 | prompt_template |
 | 32 | ✅ [ub2-csv-data-analyzer](https://clawsearch.cc/detail/ub2-csv-data-analyzer) | underbench2-gif | 5% | 623 | prompt_template |
 | 33 | ✅ [1p-shortlink](https://clawsearch.cc/detail/1p-shortlink) | tuanpmt | 5% | 581 | prompt_template |
 | 34 | ✅ [qordinate-structured-memory](https://clawsearch.cc/detail/qordinate-structured-memory) | singhcoder | 5% | 561 | prompt_template |
 | 35 | ✅ [reef-negotiation](https://clawsearch.cc/detail/reef-negotiation) | staybased | 5% | 528 | prompt_template |
 | 36 | ✅ [weather-open-meteo](https://clawsearch.cc/detail/weather-open-meteo) | vdiogov | 5% | 517 | tool |
-| 37 | ✅ [game-ai](https://clawsearch.cc/detail/game-ai) | thb32133451 | 5% | 506 | documentation |
-| 38 | ✅ [huggingface](https://clawsearch.cc/detail/huggingface) | tsukisama9292 | 5% | 506 | prompt_template |
+| 37 | ✅ [huggingface](https://clawsearch.cc/detail/huggingface) | tsukisama9292 | 5% | 506 | prompt_template |
+| 38 | ✅ [game-ai](https://clawsearch.cc/detail/game-ai) | thb32133451 | 5% | 506 | documentation |
 | 39 | ✅ [api-design](https://clawsearch.cc/detail/api-design) | shateily | 5% | 484 | documentation |
 | 40 | ✅ [ahrs-tools](https://clawsearch.cc/detail/ahrs-tools) | wangyendt | 5% | 459 | documentation |
 | 41 | ✅ [se3](https://clawsearch.cc/detail/se3) | wangyendt | 5% | 404 | documentation |
 | 42 | ✅ [so3](https://clawsearch.cc/detail/so3) | wangyendt | 5% | 371 | documentation |
 | 43 | ✅ [india-location-normalizer](https://clawsearch.cc/detail/india-location-normalizer) | vishalgojha | 5% | 332 | prompt_template |
 | 44 | ✅ [feishu-at-mention](https://clawsearch.cc/detail/feishu-at-mention) | vision-qiu | 5% | 199 | prompt_template |
-| 45 | ✅ [Revenue Calculator](https://clawsearch.cc/detail/Revenue Calculator) | unknown | 5% | 0 | prompt_template |
-| 46 | ✅ [long-article-illustration](https://clawsearch.cc/detail/long-article-illustration) | antonia-sz | 5% | 0 | prompt_template |
-| 47 | ✅ [github](https://clawsearch.cc/detail/github) | unknown | 5% | 0 | prompt_template |
-| 48 | ✅ [china-scenic-spots](https://clawsearch.cc/detail/china-scenic-spots) | anmu14641 | 5% | 0 | prompt_template |
+| 45 | ✅ [long-article-illustration](https://clawsearch.cc/detail/long-article-illustration) | antonia-sz | 5% | 0 | prompt_template |
+| 46 | ✅ [Revenue Calculator](https://clawsearch.cc/detail/Revenue Calculator) | unknown | 5% | 0 | prompt_template |
+| 47 | ✅ [don-corleone-writing-style](https://clawsearch.cc/detail/don-corleone-writing-style) | anugotta | 5% | 0 | prompt_template |
+| 48 | ✅ [harvey-specter-writing-style](https://clawsearch.cc/detail/harvey-specter-writing-style) | anugotta | 5% | 0 | prompt_template |
 | 49 | ✅ [agente-filosofia-sociologia](https://clawsearch.cc/detail/agente-filosofia-sociologia) | antoniovfranco | 5% | 0 | prompt_template |
 | 50 | ✅ [whatsapp-styler](https://clawsearch.cc/detail/whatsapp-styler) | unknown | 5% | 0 | prompt_template |
 
