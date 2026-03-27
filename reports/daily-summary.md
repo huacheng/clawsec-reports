@@ -5,12 +5,12 @@
 | Metric | Value |
 |--------|-------|
 | Skills Indexed | 41,805 |
-| Audited | 2,079 (5.0%) |
-| Safe | 601 (28.9%) |
-| Suspicious | 1,225 |
+| Audited | 2,084 (5.0%) |
+| Safe | 602 (28.9%) |
+| Suspicious | 1,229 |
 | Malicious | 247 (11.9%) |
 | Knowledge Graph | 18,424 relations |
-| Search Tags | 2,060 indexed |
+| Search Tags | 2,065 indexed |
 
 ## Most Popular Skills
 
