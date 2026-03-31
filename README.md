@@ -42,6 +42,7 @@ npx clawsearch @steipete
 ### 2026-03-31
 
 - [Daily Summary](reports/2026-03-31-daily-summary.md)
+- [Malicious Skills Exposed — Threat Breakdown](reports/2026-03-31-malicious-skills-exposed.md)
 - [Most Downloaded Skills — Security Analysis](reports/2026-03-31-most-downloaded-skills.md)
 - [Top 50 Authors — Trust and Safety Leaderboard](reports/2026-03-31-skill-authors-top50.md)
 
