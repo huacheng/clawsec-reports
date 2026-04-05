@@ -52,6 +52,7 @@ npx clawsearch @steipete
 - [Newly Discovered Skills This Week](reports/2026-04-05-new-skills-this-week.md)
 - [Rising Authors — Clean Track Records](reports/2026-04-05-rising-authors.md)
 - [Safest Skills — Recommended Picks](reports/2026-04-05-safest-skills-recommended.md)
+- [Sandbox Results — Runtime Behavior](reports/2026-04-05-sandbox-results.md)
 - [Top 50 Authors — Trust and Safety Leaderboard](reports/2026-04-05-skill-authors-top50.md)
 - [Suspicious Skills — What to Watch](reports/2026-04-05-suspicious-skills-watchlist.md)
 - [Threat Deep Dive — Attack Categories](reports/2026-04-05-threat-deep-dive.md)
