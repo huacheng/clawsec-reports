@@ -57,6 +57,7 @@ npx clawsearch @steipete
 - [Suspicious Skills — What to Watch](reports/2026-04-10-suspicious-skills-watchlist.md)
 - [Threat Deep Dive — Attack Categories](reports/2026-04-10-threat-deep-dive.md)
 - [Threat Landscape — Attack Patterns](reports/2026-04-10-threat-landscape.md)
+- [Top Skills by Category](reports/2026-04-10-top-by-category.md)
 
 ### 2026-04-09
 
