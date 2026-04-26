@@ -46,6 +46,7 @@ npx clawsearch @steipete
 - [Daily Summary](reports/2026-04-26-daily-summary.md)
 - [Ecosystem Health Index](reports/2026-04-26-ecosystem-health.md)
 - [Fastest Growing Skills](reports/2026-04-26-fastest-growing-skills.md)
+- [High-Risk Authors](reports/2026-04-26-high-risk-authors.md)
 - [Malicious Skills Exposed — Threat Breakdown](reports/2026-04-26-malicious-skills-exposed.md)
 - [Most Downloaded Skills — Security Analysis](reports/2026-04-26-most-downloaded-skills.md)
 - [Newly Discovered Skills This Week](reports/2026-04-26-new-skills-this-week.md)
