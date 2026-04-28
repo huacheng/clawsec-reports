@@ -39,6 +39,10 @@ npx clawsearch @steipete
 
 ## Archive
 
+### 2026-04-28
+
+- [Daily Summary](reports/2026-04-28-daily-summary.md)
+
 ### 2026-04-27
 
 - [Audit Coverage Report](reports/2026-04-27-audit-coverage.md)
