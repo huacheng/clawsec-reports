@@ -41,6 +41,7 @@ npx clawsearch @steipete
 
 ### 2026-04-29
 
+- [Audit Coverage Report](reports/2026-04-29-audit-coverage.md)
 - [Skill Category Distribution](reports/2026-04-29-category-distribution.md)
 - [Daily Summary](reports/2026-04-29-daily-summary.md)
 - [Fastest Growing Skills](reports/2026-04-29-fastest-growing-skills.md)
