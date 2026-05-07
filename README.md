@@ -51,6 +51,7 @@ npx clawsearch @steipete
 - [Safest Skills — Recommended Picks](reports/2026-05-07-safest-skills-recommended.md)
 - [Top 50 Authors — Trust and Safety Leaderboard](reports/2026-05-07-skill-authors-top50.md)
 - [Suspicious Skills — What to Watch](reports/2026-05-07-suspicious-skills-watchlist.md)
+- [Threat Deep Dive — Attack Categories](reports/2026-05-07-threat-deep-dive.md)
 - [Threat Landscape — Attack Patterns](reports/2026-05-07-threat-landscape.md)
 
 ### 2026-05-06
