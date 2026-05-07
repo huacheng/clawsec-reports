@@ -43,6 +43,7 @@ npx clawsearch @steipete
 
 - [Skill Category Distribution](reports/2026-05-07-category-distribution.md)
 - [Daily Summary](reports/2026-05-07-daily-summary.md)
+- [Fastest Growing Skills](reports/2026-05-07-fastest-growing-skills.md)
 - [Malicious Skills Exposed — Threat Breakdown](reports/2026-05-07-malicious-skills-exposed.md)
 - [Most Downloaded Skills — Security Analysis](reports/2026-05-07-most-downloaded-skills.md)
 - [Newly Discovered Skills This Week](reports/2026-05-07-new-skills-this-week.md)
