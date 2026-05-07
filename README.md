@@ -44,6 +44,7 @@ npx clawsearch @steipete
 - [Audit Coverage Report](reports/2026-05-07-audit-coverage.md)
 - [Skill Category Distribution](reports/2026-05-07-category-distribution.md)
 - [Daily Summary](reports/2026-05-07-daily-summary.md)
+- [Ecosystem Health Index](reports/2026-05-07-ecosystem-health.md)
 - [Fastest Growing Skills](reports/2026-05-07-fastest-growing-skills.md)
 - [Malicious Skills Exposed — Threat Breakdown](reports/2026-05-07-malicious-skills-exposed.md)
 - [Most Downloaded Skills — Security Analysis](reports/2026-05-07-most-downloaded-skills.md)
