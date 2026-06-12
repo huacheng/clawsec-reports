@@ -42,6 +42,7 @@ npx clawsearch @steipete
 ### 2026-06-12
 
 - [Daily Summary](reports/2026-06-12-daily-summary.md)
+- [Top 50 Authors — Trust and Safety Leaderboard](reports/2026-06-12-skill-authors-top50.md)
 
 ### 2026-06-11
 
