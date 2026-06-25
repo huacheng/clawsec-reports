@@ -42,6 +42,7 @@ npx clawsearch @steipete
 ### 2026-06-25
 
 - [Daily Summary](reports/2026-06-25-daily-summary.md)
+- [Most Downloaded Skills — Security Analysis](reports/2026-06-25-most-downloaded-skills.md)
 - [Top 50 Authors — Trust and Safety Leaderboard](reports/2026-06-25-skill-authors-top50.md)
 
 ### 2026-06-24
